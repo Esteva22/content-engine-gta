@@ -1,0 +1,25 @@
+{
+  "createdAt": "2026-11-19T01:41:52.860874+00:00",
+  "authTables": {
+    "settings": 0,
+    "sessions": 0,
+    "audit": 0,
+    "publications": 0
+  },
+  "mediaPaths": 52,
+  "videosUnapproved": 25,
+  "scheduledVideos": 0,
+  "rawDownloadMetadataFiles": 0,
+  "privateAbsolutePaths": [],
+  "brokenDocumentationLinks": [],
+  "gpsMetadataFiles": [],
+  "databaseIntegrity": "ok",
+  "skillValidation": "passed",
+  "dependencyInstallation": "npm ci completed on packaged copy",
+  "npmAuditAtInstall": "0 vulnerabilities reported",
+  "npmTests": "8 passed on packaged copy; no external publication",
+  "frontendBuild": "passed on packaged copy",
+  "pythonBackend": "existing Mac implementation supplied; model weights must be downloaded separately",
+  "newSocialPublicationsDuringValidation": false,
+  "automationsInstalledInPackage": false
+}

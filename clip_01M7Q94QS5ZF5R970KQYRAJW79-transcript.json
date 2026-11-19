@@ -1,0 +1,278 @@
+{
+  "text": " Ah, gostei do verde Pro quarto aqui, né Ah, o efeito sonoro do rolo Cara, absurdo Hoje é 7 vídeos ou mais no canal, tá?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.4800000000000004,
+      "end": 3.82,
+      "text": " Ah, gostei do verde",
+      "tokens": [
+        50365,
+        2438,
+        11,
+        13188,
+        17067,
+        360,
+        29653,
+        50556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146768024989537,
+      "compression_ratio": 1.0123456790123457,
+      "no_speech_prob": 3.998418783568436e-12,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 2.4800000000000004,
+          "end": 3.16,
+          "probability": 0.6884765625
+        },
+        {
+          "word": " gostei",
+          "start": 3.26,
+          "end": 3.44,
+          "probability": 0.984375
+        },
+        {
+          "word": " do",
+          "start": 3.44,
+          "end": 3.54,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " verde",
+          "start": 3.54,
+          "end": 3.82,
+          "probability": 0.97802734375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.82,
+      "end": 5.32,
+      "text": " Pro quarto aqui, né",
+      "tokens": [
+        50556,
+        1705,
+        50109,
+        3871,
+        11,
+        7024,
+        50631
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146768024989537,
+      "compression_ratio": 1.0123456790123457,
+      "no_speech_prob": 3.998418783568436e-12,
+      "words": [
+        {
+          "word": " Pro",
+          "start": 3.82,
+          "end": 4.44,
+          "probability": 0.250244140625
+        },
+        {
+          "word": " quarto",
+          "start": 4.44,
+          "end": 4.92,
+          "probability": 0.90234375
+        },
+        {
+          "word": " aqui,",
+          "start": 4.92,
+          "end": 5.12,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " né",
+          "start": 5.12,
+          "end": 5.46,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.46,
+      "end": 14.92,
+      "text": " Ah, o efeito sonoro do rolo",
+      "tokens": [
+        50631,
+        2438,
+        11,
+        277,
+        308,
+        35417,
+        1872,
+        10780,
+        360,
+        744,
+        752,
+        51112
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146768024989537,
+      "compression_ratio": 1.0123456790123457,
+      "no_speech_prob": 3.998418783568436e-12,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 8.46,
+          "end": 9.14,
+          "probability": 0.1917724609375
+        },
+        {
+          "word": " o",
+          "start": 13.72,
+          "end": 13.78,
+          "probability": 0.9921875
+        },
+        {
+          "word": " efeito",
+          "start": 13.78,
+          "end": 14.0,
+          "probability": 0.998046875
+        },
+        {
+          "word": " sonoro",
+          "start": 14.0,
+          "end": 14.46,
+          "probability": 0.99609375
+        },
+        {
+          "word": " do",
+          "start": 14.46,
+          "end": 14.58,
+          "probability": 0.96142578125
+        },
+        {
+          "word": " rolo",
+          "start": 14.58,
+          "end": 14.92,
+          "probability": 0.94970703125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.92,
+      "end": 17.66,
+      "text": " Cara, absurdo",
+      "tokens": [
+        51112,
+        33006,
+        11,
+        1950,
+        374,
+        2595,
+        51250
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146768024989537,
+      "compression_ratio": 1.0123456790123457,
+      "no_speech_prob": 3.998418783568436e-12,
+      "words": [
+        {
+          "word": " Cara,",
+          "start": 14.92,
+          "end": 15.2,
+          "probability": 0.09295654296875
+        },
+        {
+          "word": " absurdo",
+          "start": 17.14,
+          "end": 17.66,
+          "probability": 0.99560546875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 31.58,
+      "text": " Hoje é 7 vídeos ou mais no canal, tá?",
+      "tokens": [
+        50365,
+        34104,
+        1136,
+        1614,
+        20617,
+        2820,
+        2420,
+        572,
+        9911,
+        11,
+        7737,
+        30,
+        50446
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10150361061096191,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 4.895495901019453e-12,
+      "words": [
+        {
+          "word": " Hoje",
+          "start": 30.0,
+          "end": 30.24,
+          "probability": 0.88134765625
+        },
+        {
+          "word": " é",
+          "start": 30.24,
+          "end": 30.36,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " 7",
+          "start": 30.36,
+          "end": 30.54,
+          "probability": 0.59228515625
+        },
+        {
+          "word": " vídeos",
+          "start": 30.54,
+          "end": 30.74,
+          "probability": 0.97265625
+        },
+        {
+          "word": " ou",
+          "start": 30.74,
+          "end": 30.86,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " mais",
+          "start": 30.86,
+          "end": 31.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " no",
+          "start": 31.02,
+          "end": 31.12,
+          "probability": 0.998046875
+        },
+        {
+          "word": " canal,",
+          "start": 31.12,
+          "end": 31.4,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " tá?",
+          "start": 31.52,
+          "end": 31.58,
+          "probability": 0.9990234375
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

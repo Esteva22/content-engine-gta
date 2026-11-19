@@ -1,0 +1,99 @@
+{
+  "historicalOnly": true,
+  "authorizationTransferred": false,
+  "snapshot": {
+    "profile": "gta.takes",
+    "completed": "2026-11-19T00:06:52.046Z",
+    "limit": 5,
+    "counts": [
+      {
+        "platform": "instagram",
+        "n": 5
+      },
+      {
+        "platform": "tiktok",
+        "n": 5
+      }
+    ],
+    "remainingNotPublished": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "posts": [
+      {
+        "video_id": 11,
+        "platform": "instagram",
+        "status": "sent",
+        "remote_id": "https://www.instagram.com/gta.takes/reel/Df5uqpzharT/",
+        "title": "O que a Rockstar perguntou para o DavyJones?"
+      },
+      {
+        "video_id": 12,
+        "platform": "instagram",
+        "status": "sent",
+        "remote_id": "https://www.instagram.com/gta.takes/reel/Df5vNOhBJv1/",
+        "title": "Ele nem percebeu que já estava jogando"
+      },
+      {
+        "video_id": 13,
+        "platform": "instagram",
+        "status": "sent",
+        "remote_id": "https://www.instagram.com/gta.takes/reel/Df5vjU6hAJ8/",
+        "title": "Foi roubar um carro e veio a primeira morte"
+      },
+      {
+        "video_id": 14,
+        "platform": "instagram",
+        "status": "sent",
+        "remote_id": "https://www.instagram.com/gta.takes/reel/Df5v0SLBWrW/",
+        "title": "O recado do irmão que emocionou o Davy"
+      },
+      {
+        "video_id": 15,
+        "platform": "instagram",
+        "status": "sent",
+        "remote_id": "https://www.instagram.com/gta.takes/reel/Df5wETEBcHR/",
+        "title": "Quem vai continuar o canal do DavyJones?"
+      },
+      {
+        "video_id": 11,
+        "platform": "tiktok",
+        "status": "sent",
+        "remote_id": "https://www.tiktok.com/@gta.takes/video/7709661768234044673",
+        "title": "O que a Rockstar perguntou para o DavyJones?"
+      },
+      {
+        "video_id": 12,
+        "platform": "tiktok",
+        "status": "sent",
+        "remote_id": "https://www.tiktok.com/@gta.takes/video/7709662014662135092",
+        "title": "Ele nem percebeu que já estava jogando"
+      },
+      {
+        "video_id": 13,
+        "platform": "tiktok",
+        "status": "sent",
+        "remote_id": "https://www.tiktok.com/@gta.takes/video/7709663982902185268",
+        "title": "Foi roubar um carro e veio a primeira morte"
+      },
+      {
+        "video_id": 14,
+        "platform": "tiktok",
+        "status": "sent",
+        "remote_id": "https://www.tiktok.com/@gta.takes/video/7709665692303297844",
+        "title": "O recado do irmão que emocionou o Davy"
+      },
+      {
+        "video_id": 15,
+        "platform": "tiktok",
+        "status": "sent",
+        "remote_id": "https://www.tiktok.com/@gta.takes/video/7709666055853051137",
+        "title": "Quem vai continuar o canal do DavyJones?"
+      }
+    ],
+    "hashtagResearch": "data/editorial/hashtag-research.json"
+  }
+}

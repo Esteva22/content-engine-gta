@@ -1,0 +1,98 @@
+[
+  {
+    "id": 11,
+    "source": "data/media/davyjones-vod-01a1e49b-00300.mp4",
+    "output": "data/media/davyjones-candidato-11-vertical.mp4",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=300"
+  },
+  {
+    "id": 12,
+    "title": "DavyJones • candidato 02 • 00:20:00",
+    "source": "data/media/davyjones-vod-01a1e49b-01200.mp4",
+    "output": "data/media/davyjones-candidato-12-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-12.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=1200",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 13,
+    "title": "DavyJones • candidato 03 • 00:35:00",
+    "source": "data/media/davyjones-vod-01a1e49b-02100.mp4",
+    "output": "data/media/davyjones-candidato-13-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-13.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=2100",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 14,
+    "title": "DavyJones • candidato 04 • 00:50:00",
+    "source": "data/media/davyjones-vod-01a1e49b-03000.mp4",
+    "output": "data/media/davyjones-candidato-14-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-14.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=3000",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 15,
+    "title": "DavyJones • candidato 05 • 01:05:00",
+    "source": "data/media/davyjones-vod-01a1e49b-03900.mp4",
+    "output": "data/media/davyjones-candidato-15-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-15.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=3900",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 16,
+    "title": "DavyJones • candidato 06 • 01:20:00",
+    "source": "data/media/davyjones-vod-01a1e49b-04800.mp4",
+    "output": "data/media/davyjones-candidato-16-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-16.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=4800",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 17,
+    "title": "DavyJones • candidato 07 • 01:35:00",
+    "source": "data/media/davyjones-vod-01a1e49b-05700.mp4",
+    "output": "data/media/davyjones-candidato-17-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-17.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=5700",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 18,
+    "title": "DavyJones • candidato 08 • 01:50:00",
+    "source": "data/media/davyjones-vod-01a1e49b-06600.mp4",
+    "output": "data/media/davyjones-candidato-18-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-18.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=6600",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 19,
+    "title": "DavyJones • candidato 09 • 02:05:00",
+    "source": "data/media/davyjones-vod-01a1e49b-07500.mp4",
+    "output": "data/media/davyjones-candidato-19-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-19.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=7500",
+    "duration": 45,
+    "status": "review"
+  },
+  {
+    "id": 20,
+    "title": "DavyJones • candidato 10 • 02:20:00",
+    "source": "data/media/davyjones-vod-01a1e49b-08400.mp4",
+    "output": "data/media/davyjones-candidato-20-vertical.mp4",
+    "thumbnail": "data/media/davyjones-candidato-20.jpg",
+    "ref": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=8400",
+    "duration": 45,
+    "status": "review"
+  }
+]

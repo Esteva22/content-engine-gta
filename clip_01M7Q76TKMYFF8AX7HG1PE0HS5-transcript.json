@@ -1,0 +1,629 @@
+{
+  "text": " Bora! Caraca, é pesadaço, o carro é muito diferente Do que a gente tá acostumado, galera Muito diferente Cara, é muito diferente Mas assim, muito diferente Atirar não dá snap mais dirigir o carro é muito mais pesado, tá? Mas assim, muito mais pesado é totalmente diferente, galera. Tem que reacostumar tudo aqui. É muito diferente.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.74,
+      "text": " Bora!",
+      "tokens": [
+        50365,
+        49967,
+        0,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -1.220585250854492,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 5.950905740403911e-11,
+      "words": [
+        {
+          "word": " Bora!",
+          "start": 0.0,
+          "end": 0.74,
+          "probability": 0.154296875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 36.62,
+      "end": 39.6,
+      "text": " Caraca, é pesadaço, o carro é muito diferente",
+      "tokens": [
+        50365,
+        2741,
+        6628,
+        11,
+        1136,
+        9262,
+        1538,
+        8560,
+        11,
+        277,
+        23428,
+        1136,
+        4945,
+        20973,
+        50853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Caraca,",
+          "start": 36.62,
+          "end": 37.3,
+          "probability": 0.62158203125
+        },
+        {
+          "word": " é",
+          "start": 37.3,
+          "end": 37.54,
+          "probability": 0.96435546875
+        },
+        {
+          "word": " pesadaço,",
+          "start": 37.54,
+          "end": 38.64,
+          "probability": 0.9658203125
+        },
+        {
+          "word": " o",
+          "start": 38.7,
+          "end": 38.76,
+          "probability": 0.5341796875
+        },
+        {
+          "word": " carro",
+          "start": 38.76,
+          "end": 38.86,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " é",
+          "start": 38.86,
+          "end": 39.04,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " muito",
+          "start": 39.04,
+          "end": 39.2,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " diferente",
+          "start": 39.2,
+          "end": 39.6,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 39.6,
+      "end": 41.7,
+      "text": " Do que a gente tá acostumado, galera",
+      "tokens": [
+        50853,
+        1144,
+        631,
+        257,
+        3788,
+        7737,
+        44126,
+        449,
+        1573,
+        11,
+        31912,
+        50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Do",
+          "start": 39.6,
+          "end": 40.52,
+          "probability": 0.14892578125
+        },
+        {
+          "word": " que",
+          "start": 40.52,
+          "end": 40.6,
+          "probability": 0.998046875
+        },
+        {
+          "word": " a",
+          "start": 40.6,
+          "end": 40.7,
+          "probability": 0.99609375
+        },
+        {
+          "word": " gente",
+          "start": 40.7,
+          "end": 40.78,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " tá",
+          "start": 40.78,
+          "end": 40.9,
+          "probability": 0.8525390625
+        },
+        {
+          "word": " acostumado,",
+          "start": 40.9,
+          "end": 41.36,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " galera",
+          "start": 41.42,
+          "end": 41.7,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 42.4,
+      "end": 43.66,
+      "text": " Muito diferente",
+      "tokens": [
+        50951,
+        31824,
+        20973,
+        51049
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Muito",
+          "start": 42.4,
+          "end": 43.08,
+          "probability": 0.83349609375
+        },
+        {
+          "word": " diferente",
+          "start": 43.08,
+          "end": 43.66,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 50.12,
+      "end": 52.92,
+      "text": " Cara, é muito diferente",
+      "tokens": [
+        51049,
+        33006,
+        11,
+        1136,
+        4945,
+        20973,
+        51524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Cara,",
+          "start": 50.12,
+          "end": 50.8,
+          "probability": 0.105224609375
+        },
+        {
+          "word": " é",
+          "start": 50.8,
+          "end": 51.48,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " muito",
+          "start": 51.48,
+          "end": 52.2,
+          "probability": 0.90673828125
+        },
+        {
+          "word": " diferente",
+          "start": 52.2,
+          "end": 52.92,
+          "probability": 0.99365234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 52.92,
+      "end": 55.58,
+      "text": " Mas assim, muito diferente",
+      "tokens": [
+        51524,
+        5224,
+        8249,
+        11,
+        4945,
+        20973,
+        51653
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Mas",
+          "start": 52.92,
+          "end": 53.6,
+          "probability": 0.615234375
+        },
+        {
+          "word": " assim,",
+          "start": 53.6,
+          "end": 53.84,
+          "probability": 0.87841796875
+        },
+        {
+          "word": " muito",
+          "start": 54.38,
+          "end": 55.0,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " diferente",
+          "start": 55.0,
+          "end": 55.58,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 55.58,
+      "end": 57.6,
+      "text": " Atirar não dá snap mais",
+      "tokens": [
+        51653,
+        1711,
+        347,
+        289,
+        2431,
+        14401,
+        13650,
+        2420,
+        51747
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22214038031441824,
+      "compression_ratio": 1.5126050420168067,
+      "no_speech_prob": 7.958932124463303e-12,
+      "words": [
+        {
+          "word": " Atirar",
+          "start": 55.58,
+          "end": 56.66,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " não",
+          "start": 56.66,
+          "end": 56.78,
+          "probability": 0.92041015625
+        },
+        {
+          "word": " dá",
+          "start": 56.78,
+          "end": 56.92,
+          "probability": 0.98486328125
+        },
+        {
+          "word": " snap",
+          "start": 56.92,
+          "end": 57.24,
+          "probability": 0.90771484375
+        },
+        {
+          "word": " mais",
+          "start": 57.24,
+          "end": 57.6,
+          "probability": 0.94384765625
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5760,
+      "start": 57.6,
+      "end": 60.68,
+      "text": " dirigir o carro é muito mais pesado, tá?",
+      "tokens": [
+        50365,
+        35243,
+        347,
+        277,
+        23428,
+        1136,
+        4945,
+        2420,
+        9262,
+        1573,
+        11,
+        7737,
+        30,
+        50520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2518031311035156,
+      "compression_ratio": 1.3135593220338984,
+      "no_speech_prob": 5.451985651133695e-12,
+      "words": [
+        {
+          "word": " dirigir",
+          "start": 57.6,
+          "end": 58.38,
+          "probability": 0.8095703125
+        },
+        {
+          "word": " o",
+          "start": 58.38,
+          "end": 58.46,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " carro",
+          "start": 58.46,
+          "end": 58.66,
+          "probability": 1.0
+        },
+        {
+          "word": " é",
+          "start": 58.66,
+          "end": 58.84,
+          "probability": 0.994140625
+        },
+        {
+          "word": " muito",
+          "start": 58.84,
+          "end": 59.52,
+          "probability": 0.998046875
+        },
+        {
+          "word": " mais",
+          "start": 59.52,
+          "end": 59.9,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " pesado,",
+          "start": 59.9,
+          "end": 60.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " tá?",
+          "start": 60.58,
+          "end": 60.68,
+          "probability": 0.99072265625
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5760,
+      "start": 60.92,
+      "end": 62.76,
+      "text": " Mas assim, muito mais pesado",
+      "tokens": [
+        50533,
+        5224,
+        8249,
+        11,
+        4945,
+        2420,
+        9262,
+        1573,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2518031311035156,
+      "compression_ratio": 1.3135593220338984,
+      "no_speech_prob": 5.451985651133695e-12,
+      "words": [
+        {
+          "word": " Mas",
+          "start": 60.92,
+          "end": 61.1,
+          "probability": 0.9287109375
+        },
+        {
+          "word": " assim,",
+          "start": 61.1,
+          "end": 61.3,
+          "probability": 0.66162109375
+        },
+        {
+          "word": " muito",
+          "start": 61.44,
+          "end": 62.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " mais",
+          "start": 62.04,
+          "end": 62.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " pesado",
+          "start": 62.32,
+          "end": 62.76,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5760,
+      "start": 62.76,
+      "end": 64.62,
+      "text": " é totalmente diferente, galera.",
+      "tokens": [
+        50624,
+        1136,
+        30865,
+        20973,
+        11,
+        31912,
+        13,
+        50719
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2518031311035156,
+      "compression_ratio": 1.3135593220338984,
+      "no_speech_prob": 5.451985651133695e-12,
+      "words": [
+        {
+          "word": " é",
+          "start": 62.76,
+          "end": 63.04,
+          "probability": 0.43798828125
+        },
+        {
+          "word": " totalmente",
+          "start": 63.04,
+          "end": 63.66,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " diferente,",
+          "start": 63.66,
+          "end": 64.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " galera.",
+          "start": 64.26,
+          "end": 64.62,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5760,
+      "start": 65.22,
+      "end": 67.06,
+      "text": " Tem que reacostumar tudo aqui.",
+      "tokens": [
+        50761,
+        8095,
+        631,
+        319,
+        326,
+        555,
+        449,
+        289,
+        9379,
+        3871,
+        13,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2518031311035156,
+      "compression_ratio": 1.3135593220338984,
+      "no_speech_prob": 5.451985651133695e-12,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 65.22,
+          "end": 65.72,
+          "probability": 0.58251953125
+        },
+        {
+          "word": " que",
+          "start": 65.72,
+          "end": 65.8,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " reacostumar",
+          "start": 65.8,
+          "end": 66.62,
+          "probability": 0.9345703125
+        },
+        {
+          "word": " tudo",
+          "start": 66.62,
+          "end": 66.84,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " aqui.",
+          "start": 66.84,
+          "end": 67.06,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5760,
+      "start": 67.14,
+      "end": 68.02,
+      "text": " É muito diferente.",
+      "tokens": [
+        50844,
+        4922,
+        4945,
+        20973,
+        13,
+        50881
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2518031311035156,
+      "compression_ratio": 1.3135593220338984,
+      "no_speech_prob": 5.451985651133695e-12,
+      "words": [
+        {
+          "word": " É",
+          "start": 67.14,
+          "end": 67.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " muito",
+          "start": 67.3,
+          "end": 67.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " diferente.",
+          "start": 67.56,
+          "end": 68.02,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

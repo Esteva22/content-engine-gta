@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "details": [
+    {
+      "id": 21,
+      "title": "O carro mudou — e a fuga deu errado",
+      "duration": 26.79,
+      "activeCaptionFrames": 653,
+      "blankCaptionFrames": 0,
+      "silenceEvents": [
+        "[Parsed_silencedetect_0 @ 0x7f88ec906440] silence_start: 16.443323",
+        "[Parsed_silencedetect_0 @ 0x7f88ec906440] silence_end: 16.771021 | silence_duration: 0.327698"
+      ],
+      "decode": "pass",
+      "format": "1080x1920 30fps + audio",
+      "approval": null,
+      "publicationCount": 0
+    },
+    {
+      "id": 22,
+      "title": "Sem mira automática: a pressão do tiroteio",
+      "duration": 23.22,
+      "activeCaptionFrames": 83,
+      "blankCaptionFrames": 0,
+      "silenceEvents": [],
+      "decode": "pass",
+      "format": "1080x1920 30fps + audio",
+      "approval": null,
+      "publicationCount": 0
+    },
+    {
+      "id": 23,
+      "title": "O treino acabou com a energia dele",
+      "duration": 22.97,
+      "activeCaptionFrames": 459,
+      "blankCaptionFrames": 0,
+      "silenceEvents": [],
+      "decode": "pass",
+      "format": "1080x1920 30fps + audio",
+      "approval": null,
+      "publicationCount": 0
+    },
+    {
+      "id": 24,
+      "title": "Ele parou para ouvir o rolo de pintura",
+      "duration": 9.3,
+      "activeCaptionFrames": 90,
+      "blankCaptionFrames": 0,
+      "silenceEvents": [],
+      "decode": "pass",
+      "format": "1080x1920 30fps + audio",
+      "approval": null,
+      "publicationCount": 0
+    },
+    {
+      "id": 25,
+      "title": "Era só consertar a pia… até aparecer isso",
+      "duration": 14.84,
+      "activeCaptionFrames": 381,
+      "blankCaptionFrames": 0,
+      "silenceEvents": [],
+      "decode": "pass",
+      "format": "1080x1920 30fps + audio",
+      "approval": null,
+      "publicationCount": 0
+    }
+  ],
+  "existingPublications": [
+    {
+      "platform": "instagram",
+      "count": 5
+    },
+    {
+      "platform": "tiktok",
+      "count": 5
+    }
+  ]
+}

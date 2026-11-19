@@ -1,0 +1,36 @@
+{
+  "createdAt": "2026-11-19T01:31:54.924695+00:00",
+  "sourceProject": "GTA 6 Content Engine",
+  "containsSource": true,
+  "containsMediaAndTranscripts": true,
+  "authCopied": false,
+  "sessionsCopied": false,
+  "publicationApprovalCopied": false,
+  "automationsInstalled": false,
+  "modelsIncluded": false,
+  "sourceFilesCopied": 353,
+  "excluded": [
+    "data/editorial/clips/clip_01M7JAXJKHSWCDV897EZGMYVKD.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7JDQGSCJZ5X0E862H5TRF38.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7Q2H15CR4ADM9EBMV0DJ5Y8.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7Q5NYKA03B2N9VBKCSRMDSC.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7Q61465TJ3MJD98CGM5Q8RA.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7QDAFVYHDBCX9RW4Z7ZSY62.info.json (substituído por metadados públicos)",
+    "data/editorial/clips/clip_01M7QDAFVYHDBCX9RW4Z7ZSY62.temp.mp4",
+    "data/editorial/screen.pid",
+    "data/editorial/validation-v3/analysis.pid",
+    "data/editorial/validation-v3/sources/clip_01M7Q64XFQTESGBZVMHCKF5Q0V.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7Q76TKMYFF8AX7HG1PE0HS5.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7Q94QS5ZF5R970KQYRAJW79.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7Q9RN31W4S5WWZ1V0VGX3FB.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7QDAFVYHDBCX9RW4Z7ZSY62.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7QDGW9V03QM02S1TMYT4BNB.info.json (substituído por metadados públicos)",
+    "data/editorial/validation-v3/sources/clip_01M7QEP0SCKH5DM2BWCGY3T9RQ.info.json (substituído por metadados públicos)"
+  ],
+  "notes": [
+    "Dependências e pesos são reinstalados no computador de destino.",
+    "Agendas e scripts com aprovações antigas são histórico inerte.",
+    "O banco demonstrativo contém apenas tabelas de domínio; settings, sessions, audit e publications estão vazias."
+  ],
+  "additionalRootArtifacts": "Imagens de dashboard, previews e candidatos locais também incluídos."
+}

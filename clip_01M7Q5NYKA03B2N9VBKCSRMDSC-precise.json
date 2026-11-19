@@ -1,0 +1,592 @@
+{
+  "text": " Mundo explosivo. E essa cena aí que a gente já viu? Eu vi o Sharon naquela janela de novo? Uhum. Uhum. Você pode olhar lá todo dia, cara. Que porra de gráfico que eu tinha. Caralho! Eu já tô jogando! Essa foi a melhor transição de cutscene que eu já vi na minha vida Que isso?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.94,
+      "text": " Mundo explosivo.",
+      "tokens": [
+        50365,
+        376,
+        6043,
+        9215,
+        6340,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Mundo",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.931640625
+        },
+        {
+          "word": " explosivo.",
+          "start": 0.24,
+          "end": 0.94,
+          "probability": 0.76416015625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.84,
+      "end": 6.5,
+      "text": " E essa cena aí que a gente já viu?",
+      "tokens": [
+        50625,
+        462,
+        7208,
+        41777,
+        7461,
+        631,
+        257,
+        3788,
+        6242,
+        28383,
+        30,
+        50695
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " E",
+          "start": 4.84,
+          "end": 5.28,
+          "probability": 0.7548828125
+        },
+        {
+          "word": " essa",
+          "start": 5.28,
+          "end": 5.48,
+          "probability": 0.962890625
+        },
+        {
+          "word": " cena",
+          "start": 5.48,
+          "end": 5.7,
+          "probability": 0.8671875
+        },
+        {
+          "word": " aí",
+          "start": 5.7,
+          "end": 5.88,
+          "probability": 0.880859375
+        },
+        {
+          "word": " que",
+          "start": 5.88,
+          "end": 5.96,
+          "probability": 0.95654296875
+        },
+        {
+          "word": " a",
+          "start": 5.96,
+          "end": 6.08,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " gente",
+          "start": 6.08,
+          "end": 6.12,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " já",
+          "start": 6.12,
+          "end": 6.32,
+          "probability": 0.95556640625
+        },
+        {
+          "word": " viu?",
+          "start": 6.32,
+          "end": 6.5,
+          "probability": 0.99560546875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.52,
+      "end": 7.58,
+      "text": " Eu vi o Sharon naquela janela de novo?",
+      "tokens": [
+        50695,
+        2186,
+        1932,
+        277,
+        28573,
+        1667,
+        41462,
+        25442,
+        4053,
+        368,
+        18246,
+        30,
+        50804
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 6.52,
+          "end": 6.52,
+          "probability": 0.0020923614501953125
+        },
+        {
+          "word": " vi",
+          "start": 6.52,
+          "end": 6.52,
+          "probability": 0.1568603515625
+        },
+        {
+          "word": " o",
+          "start": 6.52,
+          "end": 6.52,
+          "probability": 0.11712646484375
+        },
+        {
+          "word": " Sharon",
+          "start": 6.52,
+          "end": 6.52,
+          "probability": 0.1317138671875
+        },
+        {
+          "word": " naquela",
+          "start": 6.52,
+          "end": 6.9,
+          "probability": 0.43359375
+        },
+        {
+          "word": " janela",
+          "start": 6.9,
+          "end": 7.2,
+          "probability": 0.525390625
+        },
+        {
+          "word": " de",
+          "start": 7.2,
+          "end": 7.48,
+          "probability": 0.359375
+        },
+        {
+          "word": " novo?",
+          "start": 7.48,
+          "end": 7.58,
+          "probability": 0.95068359375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.66,
+      "end": 9.66,
+      "text": " Uhum. Uhum.",
+      "tokens": [
+        50804,
+        4019,
+        449,
+        13,
+        4019,
+        449,
+        13,
+        50859
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Uhum.",
+          "start": 8.66,
+          "end": 9.1,
+          "probability": 0.751953125
+        },
+        {
+          "word": " Uhum.",
+          "start": 9.48,
+          "end": 9.66,
+          "probability": 0.8642578125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.86,
+      "end": 11.48,
+      "text": " Você pode olhar lá todo dia, cara.",
+      "tokens": [
+        50859,
+        9781,
+        7468,
+        37446,
+        7453,
+        5149,
+        6801,
+        11,
+        10962,
+        13,
+        50953
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Você",
+          "start": 9.86,
+          "end": 9.92,
+          "probability": 0.01751708984375
+        },
+        {
+          "word": " pode",
+          "start": 9.92,
+          "end": 10.14,
+          "probability": 0.83056640625
+        },
+        {
+          "word": " olhar",
+          "start": 10.14,
+          "end": 10.32,
+          "probability": 0.8896484375
+        },
+        {
+          "word": " lá",
+          "start": 10.32,
+          "end": 10.58,
+          "probability": 0.383544921875
+        },
+        {
+          "word": " todo",
+          "start": 10.58,
+          "end": 10.84,
+          "probability": 0.1962890625
+        },
+        {
+          "word": " dia,",
+          "start": 10.84,
+          "end": 11.08,
+          "probability": 0.833984375
+        },
+        {
+          "word": " cara.",
+          "start": 11.08,
+          "end": 11.48,
+          "probability": 0.234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.64,
+      "end": 12.66,
+      "text": " Que porra de gráfico que eu tinha.",
+      "tokens": [
+        50953,
+        4493,
+        1515,
+        424,
+        368,
+        34613,
+        78,
+        631,
+        2228,
+        13574,
+        13,
+        51053
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Que",
+          "start": 11.64,
+          "end": 11.72,
+          "probability": 0.2325439453125
+        },
+        {
+          "word": " porra",
+          "start": 11.72,
+          "end": 11.92,
+          "probability": 0.9716796875
+        },
+        {
+          "word": " de",
+          "start": 11.92,
+          "end": 12.06,
+          "probability": 0.97119140625
+        },
+        {
+          "word": " gráfico",
+          "start": 12.06,
+          "end": 12.4,
+          "probability": 0.68994140625
+        },
+        {
+          "word": " que",
+          "start": 12.4,
+          "end": 12.6,
+          "probability": 0.08526611328125
+        },
+        {
+          "word": " eu",
+          "start": 12.6,
+          "end": 12.6,
+          "probability": 0.34375
+        },
+        {
+          "word": " tinha.",
+          "start": 12.6,
+          "end": 12.66,
+          "probability": 0.08270263671875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.1,
+      "end": 20.54,
+      "text": " Caralho!",
+      "tokens": [
+        51358,
+        2741,
+        304,
+        1289,
+        0,
+        51433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Caralho!",
+          "start": 20.1,
+          "end": 20.54,
+          "probability": 0.80615234375
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.18,
+      "end": 25.58,
+      "text": " Eu já tô jogando!",
+      "tokens": [
+        51592,
+        2186,
+        6242,
+        20683,
+        9464,
+        1806,
+        0,
+        51682
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8097936895829213,
+      "compression_ratio": 1.2560975609756098,
+      "no_speech_prob": 2.2198384623528522e-12,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 24.18,
+          "end": 24.62,
+          "probability": 0.908203125
+        },
+        {
+          "word": " já",
+          "start": 24.62,
+          "end": 24.76,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " tô",
+          "start": 24.76,
+          "end": 24.92,
+          "probability": 0.88671875
+        },
+        {
+          "word": " jogando!",
+          "start": 24.92,
+          "end": 25.58,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2558,
+      "start": 28.799999999999997,
+      "end": 33.12,
+      "text": " Essa foi a melhor transição de cutscene que eu já vi na minha vida",
+      "tokens": [
+        50365,
+        22818,
+        6901,
+        257,
+        13714,
+        1145,
+        16661,
+        368,
+        1723,
+        47798,
+        631,
+        2228,
+        6242,
+        1932,
+        1667,
+        11720,
+        7644,
+        50743
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1829357147216797,
+      "compression_ratio": 0.9634146341463414,
+      "no_speech_prob": 2.835954127783369e-12,
+      "words": [
+        {
+          "word": " Essa",
+          "start": 28.799999999999997,
+          "end": 29.36,
+          "probability": 0.89892578125
+        },
+        {
+          "word": " foi",
+          "start": 29.36,
+          "end": 29.8,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " a",
+          "start": 29.8,
+          "end": 30.08,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " melhor",
+          "start": 30.08,
+          "end": 30.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " transição",
+          "start": 30.48,
+          "end": 31.14,
+          "probability": 0.984375
+        },
+        {
+          "word": " de",
+          "start": 31.14,
+          "end": 31.3,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " cutscene",
+          "start": 31.3,
+          "end": 31.82,
+          "probability": 0.986328125
+        },
+        {
+          "word": " que",
+          "start": 31.82,
+          "end": 32.0,
+          "probability": 0.9365234375
+        },
+        {
+          "word": " eu",
+          "start": 32.0,
+          "end": 32.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " já",
+          "start": 32.06,
+          "end": 32.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " vi",
+          "start": 32.16,
+          "end": 32.34,
+          "probability": 0.998046875
+        },
+        {
+          "word": " na",
+          "start": 32.34,
+          "end": 32.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " minha",
+          "start": 32.46,
+          "end": 32.68,
+          "probability": 1.0
+        },
+        {
+          "word": " vida",
+          "start": 32.68,
+          "end": 33.12,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2558,
+      "start": 34.04,
+      "end": 35.14,
+      "text": " Que isso?",
+      "tokens": [
+        50743,
+        4493,
+        4616,
+        30,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1829357147216797,
+      "compression_ratio": 0.9634146341463414,
+      "no_speech_prob": 2.835954127783369e-12,
+      "words": [
+        {
+          "word": " Que",
+          "start": 34.04,
+          "end": 34.6,
+          "probability": 0.2139892578125
+        },
+        {
+          "word": " isso?",
+          "start": 34.6,
+          "end": 35.14,
+          "probability": 0.923828125
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

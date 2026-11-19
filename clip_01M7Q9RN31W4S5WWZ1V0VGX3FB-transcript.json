@@ -1,0 +1,1310 @@
+{
+  "text": " Os coletáveis, ó Vamos começar aqui no supino Vamos de supino Eu posso mexer aqui nos pesos O atual fala que é esse aqui, então vamos aqui O que eu tenho que fazer, levantar Abaixar Eu gasto minha energia pra cacete Beleza, fiz o máximo que dava Aumentou o trem de força Ah, ele ficou cansado, mas ele vai recuperando energia Legal E aí a gente tem Tem esse aqui Levantamento terra É o que? É a remada alta? Só vamos deixar no atual Vamos olhar Comentou o treino de força Deixa eu regenerar mais um pouco ali E vamos pra esse aqui Balanços com kettlebell LT para balançar com kettlebell para cima e solte no ponto mais alto e repetição para abaixá-lo",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.9199999999999982,
+      "end": 3.14,
+      "text": " Os coletáveis, ó",
+      "tokens": [
+        50365,
+        8875,
+        1173,
+        302,
+        42530,
+        11,
+        11857,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " Os",
+          "start": 1.9199999999999982,
+          "end": 2.359999999999999,
+          "probability": 0.3330078125
+        },
+        {
+          "word": " coletáveis,",
+          "start": 2.359999999999999,
+          "end": 2.8,
+          "probability": 0.923828125
+        },
+        {
+          "word": " ó",
+          "start": 3.02,
+          "end": 3.14,
+          "probability": 0.6728515625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.179999999999998,
+      "end": 6.0,
+      "text": " Vamos começar aqui no supino",
+      "tokens": [
+        50524,
+        10894,
+        24379,
+        3871,
+        572,
+        9331,
+        2982,
+        50666
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 4.179999999999998,
+          "end": 4.619999999999999,
+          "probability": 0.352294921875
+        },
+        {
+          "word": " começar",
+          "start": 4.619999999999999,
+          "end": 5.06,
+          "probability": 0.8583984375
+        },
+        {
+          "word": " aqui",
+          "start": 5.06,
+          "end": 5.28,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " no",
+          "start": 5.28,
+          "end": 5.54,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " supino",
+          "start": 5.54,
+          "end": 6.0,
+          "probability": 0.986328125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 7.02,
+      "text": " Vamos de supino",
+      "tokens": [
+        50666,
+        10894,
+        368,
+        9331,
+        2982,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 6.0,
+          "end": 6.6,
+          "probability": 0.27197265625
+        },
+        {
+          "word": " de",
+          "start": 6.6,
+          "end": 6.66,
+          "probability": 0.931640625
+        },
+        {
+          "word": " supino",
+          "start": 6.66,
+          "end": 7.02,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.999999999999998,
+      "end": 15.32,
+      "text": " Eu posso mexer aqui nos pesos",
+      "tokens": [
+        50716,
+        2186,
+        22501,
+        28759,
+        260,
+        3871,
+        3269,
+        33204,
+        51131
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 12.999999999999998,
+          "end": 13.44,
+          "probability": 0.8427734375
+        },
+        {
+          "word": " posso",
+          "start": 13.44,
+          "end": 13.88,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " mexer",
+          "start": 13.88,
+          "end": 14.5,
+          "probability": 0.951171875
+        },
+        {
+          "word": " aqui",
+          "start": 14.5,
+          "end": 14.66,
+          "probability": 0.96484375
+        },
+        {
+          "word": " nos",
+          "start": 14.66,
+          "end": 14.84,
+          "probability": 0.8388671875
+        },
+        {
+          "word": " pesos",
+          "start": 14.84,
+          "end": 15.32,
+          "probability": 0.9501953125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.32,
+      "end": 16.96,
+      "text": " O atual fala que é esse aqui, então vamos aqui",
+      "tokens": [
+        51131,
+        422,
+        39241,
+        21580,
+        631,
+        1136,
+        6755,
+        3871,
+        11,
+        9071,
+        5295,
+        3871,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " O",
+          "start": 15.32,
+          "end": 15.6,
+          "probability": 0.369384765625
+        },
+        {
+          "word": " atual",
+          "start": 15.6,
+          "end": 15.84,
+          "probability": 0.998046875
+        },
+        {
+          "word": " fala",
+          "start": 15.84,
+          "end": 16.06,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " que",
+          "start": 16.06,
+          "end": 16.18,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " é",
+          "start": 16.18,
+          "end": 16.22,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " esse",
+          "start": 16.22,
+          "end": 16.32,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " aqui,",
+          "start": 16.32,
+          "end": 16.48,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " então",
+          "start": 16.5,
+          "end": 16.6,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " vamos",
+          "start": 16.6,
+          "end": 16.74,
+          "probability": 0.97265625
+        },
+        {
+          "word": " aqui",
+          "start": 16.74,
+          "end": 16.96,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.96,
+      "end": 18.36,
+      "text": " O que eu tenho que fazer, levantar",
+      "tokens": [
+        51215,
+        422,
+        631,
+        2228,
+        14291,
+        631,
+        6736,
+        11,
+        30612,
+        289,
+        51291
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " O",
+          "start": 16.96,
+          "end": 17.42,
+          "probability": 0.84521484375
+        },
+        {
+          "word": " que",
+          "start": 17.42,
+          "end": 17.5,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " eu",
+          "start": 17.5,
+          "end": 17.56,
+          "probability": 0.8544921875
+        },
+        {
+          "word": " tenho",
+          "start": 17.56,
+          "end": 17.58,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " que",
+          "start": 17.58,
+          "end": 17.62,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " fazer,",
+          "start": 17.62,
+          "end": 17.76,
+          "probability": 1.0
+        },
+        {
+          "word": " levantar",
+          "start": 17.78,
+          "end": 18.36,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.86,
+      "end": 20.3,
+      "text": " Abaixar",
+      "tokens": [
+        51291,
+        2847,
+        64,
+        970,
+        289,
+        51382
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23534773242089055,
+      "compression_ratio": 1.3191489361702127,
+      "no_speech_prob": 6.439761918164422e-12,
+      "words": [
+        {
+          "word": " Abaixar",
+          "start": 19.86,
+          "end": 20.3,
+          "probability": 0.97509765625
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 31.620000000000005,
+      "end": 33.1,
+      "text": " Eu gasto minha energia pra cacete",
+      "tokens": [
+        50365,
+        2186,
+        17898,
+        78,
+        11720,
+        29469,
+        3206,
+        269,
+        326,
+        3498,
+        50521
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 31.620000000000005,
+          "end": 32.02,
+          "probability": 0.1170654296875
+        },
+        {
+          "word": " gasto",
+          "start": 32.02,
+          "end": 32.22,
+          "probability": 0.654296875
+        },
+        {
+          "word": " minha",
+          "start": 32.22,
+          "end": 32.32,
+          "probability": 0.71875
+        },
+        {
+          "word": " energia",
+          "start": 32.32,
+          "end": 32.54,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " pra",
+          "start": 32.54,
+          "end": 32.66,
+          "probability": 0.95263671875
+        },
+        {
+          "word": " cacete",
+          "start": 32.66,
+          "end": 33.1,
+          "probability": 0.99267578125
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 43.980000000000004,
+      "end": 45.4,
+      "text": " Beleza, fiz o máximo que dava",
+      "tokens": [
+        50521,
+        879,
+        306,
+        2394,
+        11,
+        21000,
+        277,
+        38876,
+        631,
+        274,
+        4061,
+        51136
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Beleza,",
+          "start": 43.980000000000004,
+          "end": 44.38,
+          "probability": 0.7470703125
+        },
+        {
+          "word": " fiz",
+          "start": 44.44,
+          "end": 44.5,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " o",
+          "start": 44.5,
+          "end": 44.64,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " máximo",
+          "start": 44.64,
+          "end": 44.84,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " que",
+          "start": 44.84,
+          "end": 45.02,
+          "probability": 0.97509765625
+        },
+        {
+          "word": " dava",
+          "start": 45.02,
+          "end": 45.4,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 47.52,
+      "end": 48.4,
+      "text": " Aumentou o trem de força",
+      "tokens": [
+        51136,
+        316,
+        2206,
+        263,
+        277,
+        7813,
+        368,
+        32878,
+        51286
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Aumentou",
+          "start": 47.52,
+          "end": 47.92,
+          "probability": 0.93408203125
+        },
+        {
+          "word": " o",
+          "start": 47.92,
+          "end": 47.98,
+          "probability": 0.9736328125
+        },
+        {
+          "word": " trem",
+          "start": 47.98,
+          "end": 48.08,
+          "probability": 0.68603515625
+        },
+        {
+          "word": " de",
+          "start": 48.08,
+          "end": 48.2,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " força",
+          "start": 48.2,
+          "end": 48.4,
+          "probability": 0.99169921875
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 48.4,
+      "end": 50.84,
+      "text": " Ah, ele ficou cansado, mas ele vai recuperando energia",
+      "tokens": [
+        51286,
+        2438,
+        11,
+        1118,
+        25518,
+        21835,
+        1573,
+        11,
+        2300,
+        1118,
+        4405,
+        25692,
+        1806,
+        29469,
+        51410
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 48.4,
+          "end": 48.82,
+          "probability": 0.56201171875
+        },
+        {
+          "word": " ele",
+          "start": 48.96,
+          "end": 49.08,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " ficou",
+          "start": 49.08,
+          "end": 49.28,
+          "probability": 1.0
+        },
+        {
+          "word": " cansado,",
+          "start": 49.28,
+          "end": 49.68,
+          "probability": 1.0
+        },
+        {
+          "word": " mas",
+          "start": 49.74,
+          "end": 49.82,
+          "probability": 1.0
+        },
+        {
+          "word": " ele",
+          "start": 49.82,
+          "end": 49.94,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " vai",
+          "start": 49.94,
+          "end": 50.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " recuperando",
+          "start": 50.04,
+          "end": 50.42,
+          "probability": 0.986328125
+        },
+        {
+          "word": " energia",
+          "start": 50.42,
+          "end": 50.84,
+          "probability": 0.297607421875
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 50.84,
+      "end": 51.62,
+      "text": " Legal",
+      "tokens": [
+        51410,
+        33577,
+        51448
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Legal",
+          "start": 50.84,
+          "end": 51.62,
+          "probability": 0.93115234375
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 52.58,
+      "end": 53.84,
+      "text": " E aí a gente tem",
+      "tokens": [
+        51448,
+        462,
+        7461,
+        257,
+        3788,
+        1383,
+        51559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " E",
+          "start": 52.58,
+          "end": 52.98,
+          "probability": 0.990234375
+        },
+        {
+          "word": " aí",
+          "start": 52.98,
+          "end": 53.24,
+          "probability": 0.9765625
+        },
+        {
+          "word": " a",
+          "start": 53.24,
+          "end": 53.42,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " gente",
+          "start": 53.42,
+          "end": 53.52,
+          "probability": 1.0
+        },
+        {
+          "word": " tem",
+          "start": 53.52,
+          "end": 53.84,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 53.84,
+      "end": 54.82,
+      "text": " Tem esse aqui",
+      "tokens": [
+        51559,
+        8095,
+        6755,
+        3871,
+        51612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Tem",
+          "start": 53.84,
+          "end": 54.3,
+          "probability": 0.3232421875
+        },
+        {
+          "word": " esse",
+          "start": 54.3,
+          "end": 54.48,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " aqui",
+          "start": 54.48,
+          "end": 54.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 56.06,
+      "end": 56.84,
+      "text": " Levantamento terra",
+      "tokens": [
+        51612,
+        1456,
+        5219,
+        8824,
+        26298,
+        51711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " Levantamento",
+          "start": 56.06,
+          "end": 56.46,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " terra",
+          "start": 56.46,
+          "end": 56.84,
+          "probability": 0.95458984375
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 57.86,
+      "end": 59.46,
+      "text": " É o que? É a remada alta?",
+      "tokens": [
+        51711,
+        4922,
+        277,
+        631,
+        30,
+        4922,
+        257,
+        890,
+        1538,
+        26495,
+        30,
+        51840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23154341144326293,
+      "compression_ratio": 1.3372093023255813,
+      "no_speech_prob": 5.732849524958672e-12,
+      "words": [
+        {
+          "word": " É",
+          "start": 57.86,
+          "end": 58.26,
+          "probability": 0.9716796875
+        },
+        {
+          "word": " o",
+          "start": 58.26,
+          "end": 58.32,
+          "probability": 0.92529296875
+        },
+        {
+          "word": " que?",
+          "start": 58.32,
+          "end": 58.4,
+          "probability": 0.95751953125
+        },
+        {
+          "word": " É",
+          "start": 58.6,
+          "end": 58.8,
+          "probability": 0.95068359375
+        },
+        {
+          "word": " a",
+          "start": 58.8,
+          "end": 58.96,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " remada",
+          "start": 58.96,
+          "end": 59.22,
+          "probability": 0.85791015625
+        },
+        {
+          "word": " alta?",
+          "start": 59.22,
+          "end": 59.46,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 6000,
+      "start": 60.02,
+      "end": 61.22,
+      "text": " Só vamos deixar no atual",
+      "tokens": [
+        50365,
+        19961,
+        5295,
+        19701,
+        572,
+        39241,
+        50427
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35994192270132214,
+      "compression_ratio": 1.158878504672897,
+      "no_speech_prob": 2.695526744520005e-12,
+      "words": [
+        {
+          "word": " Só",
+          "start": 60.02,
+          "end": 60.42,
+          "probability": 0.383544921875
+        },
+        {
+          "word": " vamos",
+          "start": 60.42,
+          "end": 60.54,
+          "probability": 0.9375
+        },
+        {
+          "word": " deixar",
+          "start": 60.54,
+          "end": 60.74,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " no",
+          "start": 60.74,
+          "end": 60.88,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " atual",
+          "start": 60.88,
+          "end": 61.22,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 6000,
+      "start": 72.32,
+      "end": 72.94,
+      "text": " Vamos olhar",
+      "tokens": [
+        50427,
+        10894,
+        37446,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35994192270132214,
+      "compression_ratio": 1.158878504672897,
+      "no_speech_prob": 2.695526744520005e-12,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 72.32,
+          "end": 72.72,
+          "probability": 0.344970703125
+        },
+        {
+          "word": " olhar",
+          "start": 72.72,
+          "end": 72.94,
+          "probability": 0.9267578125
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 6000,
+      "start": 83.56,
+      "end": 84.54,
+      "text": " Comentou o treino de força",
+      "tokens": [
+        51015,
+        2432,
+        317,
+        263,
+        277,
+        2192,
+        2982,
+        368,
+        32878,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35994192270132214,
+      "compression_ratio": 1.158878504672897,
+      "no_speech_prob": 2.695526744520005e-12,
+      "words": [
+        {
+          "word": " Comentou",
+          "start": 83.56,
+          "end": 83.96,
+          "probability": 0.7451171875
+        },
+        {
+          "word": " o",
+          "start": 83.96,
+          "end": 84.06,
+          "probability": 0.8642578125
+        },
+        {
+          "word": " treino",
+          "start": 84.06,
+          "end": 84.18,
+          "probability": 0.8095703125
+        },
+        {
+          "word": " de",
+          "start": 84.18,
+          "end": 84.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " força",
+          "start": 84.28,
+          "end": 84.54,
+          "probability": 0.93603515625
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 6000,
+      "start": 84.54,
+      "end": 85.78,
+      "text": " Deixa eu regenerar mais um pouco ali",
+      "tokens": [
+        51594,
+        46589,
+        2228,
+        26358,
+        289,
+        2420,
+        1105,
+        13920,
+        10198,
+        51657
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35994192270132214,
+      "compression_ratio": 1.158878504672897,
+      "no_speech_prob": 2.695526744520005e-12,
+      "words": [
+        {
+          "word": " Deixa",
+          "start": 84.54,
+          "end": 84.78,
+          "probability": 0.6064453125
+        },
+        {
+          "word": " eu",
+          "start": 84.78,
+          "end": 84.86,
+          "probability": 0.833984375
+        },
+        {
+          "word": " regenerar",
+          "start": 84.86,
+          "end": 85.2,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " mais",
+          "start": 85.2,
+          "end": 85.32,
+          "probability": 0.80517578125
+        },
+        {
+          "word": " um",
+          "start": 85.32,
+          "end": 85.38,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " pouco",
+          "start": 85.38,
+          "end": 85.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " ali",
+          "start": 85.58,
+          "end": 85.78,
+          "probability": 0.904296875
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 6000,
+      "start": 87.78,
+      "end": 88.84,
+      "text": " E vamos pra esse aqui",
+      "tokens": [
+        51657,
+        462,
+        5295,
+        3206,
+        6755,
+        3871,
+        51808
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35994192270132214,
+      "compression_ratio": 1.158878504672897,
+      "no_speech_prob": 2.695526744520005e-12,
+      "words": [
+        {
+          "word": " E",
+          "start": 87.78,
+          "end": 88.18,
+          "probability": 0.9765625
+        },
+        {
+          "word": " vamos",
+          "start": 88.18,
+          "end": 88.38,
+          "probability": 0.99609375
+        },
+        {
+          "word": " pra",
+          "start": 88.38,
+          "end": 88.5,
+          "probability": 0.81396484375
+        },
+        {
+          "word": " esse",
+          "start": 88.5,
+          "end": 88.64,
+          "probability": 0.92236328125
+        },
+        {
+          "word": " aqui",
+          "start": 88.64,
+          "end": 88.84,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 9000,
+      "start": 90.30000000000001,
+      "end": 91.28,
+      "text": " Balanços com kettlebell",
+      "tokens": [
+        50365,
+        13140,
+        12368,
+        329,
+        395,
+        39088,
+        7100,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42118758124274175,
+      "compression_ratio": 1.2653061224489797,
+      "no_speech_prob": 3.3355681498120626e-12,
+      "words": [
+        {
+          "word": " Balanços",
+          "start": 90.30000000000001,
+          "end": 90.62,
+          "probability": 0.72607421875
+        },
+        {
+          "word": " com",
+          "start": 90.62,
+          "end": 90.72,
+          "probability": 0.953125
+        },
+        {
+          "word": " kettlebell",
+          "start": 90.72,
+          "end": 91.28,
+          "probability": 0.7548828125
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 9000,
+      "start": 96.19999999999999,
+      "end": 99.38,
+      "text": " LT para balançar com kettlebell para cima e solte no ponto mais alto e repetição para abaixá-lo",
+      "tokens": [
+        50670,
+        42671,
+        1690,
+        3119,
+        12368,
+        289,
+        395,
+        39088,
+        7100,
+        1690,
+        22586,
+        308,
+        1404,
+        975,
+        572,
+        17936,
+        2420,
+        21275,
+        308,
+        13645,
+        16661,
+        1690,
+        46981,
+        970,
+        842,
+        12,
+        752,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42118758124274175,
+      "compression_ratio": 1.2653061224489797,
+      "no_speech_prob": 3.3355681498120626e-12,
+      "words": [
+        {
+          "word": " LT",
+          "start": 96.19999999999999,
+          "end": 96.52,
+          "probability": 0.6142578125
+        },
+        {
+          "word": " para",
+          "start": 96.52,
+          "end": 96.72,
+          "probability": 0.541015625
+        },
+        {
+          "word": " balançar",
+          "start": 96.72,
+          "end": 97.02,
+          "probability": 0.98388671875
+        },
+        {
+          "word": " com",
+          "start": 97.02,
+          "end": 97.1,
+          "probability": 0.306396484375
+        },
+        {
+          "word": " kettlebell",
+          "start": 97.1,
+          "end": 97.32,
+          "probability": 0.9814453125
+        },
+        {
+          "word": " para",
+          "start": 97.32,
+          "end": 97.44,
+          "probability": 0.8447265625
+        },
+        {
+          "word": " cima",
+          "start": 97.44,
+          "end": 97.6,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " e",
+          "start": 97.6,
+          "end": 97.68,
+          "probability": 0.84326171875
+        },
+        {
+          "word": " solte",
+          "start": 97.68,
+          "end": 97.88,
+          "probability": 0.67578125
+        },
+        {
+          "word": " no",
+          "start": 97.88,
+          "end": 97.96,
+          "probability": 0.76513671875
+        },
+        {
+          "word": " ponto",
+          "start": 97.96,
+          "end": 98.16,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " mais",
+          "start": 98.16,
+          "end": 98.32,
+          "probability": 0.95458984375
+        },
+        {
+          "word": " alto",
+          "start": 98.32,
+          "end": 98.46,
+          "probability": 0.9609375
+        },
+        {
+          "word": " e",
+          "start": 98.46,
+          "end": 98.52,
+          "probability": 0.265869140625
+        },
+        {
+          "word": " repetição",
+          "start": 98.52,
+          "end": 98.82,
+          "probability": 0.72021484375
+        },
+        {
+          "word": " para",
+          "start": 98.82,
+          "end": 98.94,
+          "probability": 0.9619140625
+        },
+        {
+          "word": " abaixá",
+          "start": 98.94,
+          "end": 99.26,
+          "probability": 0.8095703125
+        },
+        {
+          "word": "-lo",
+          "start": 99.26,
+          "end": 99.38,
+          "probability": 0.93896484375
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

@@ -1,0 +1,914 @@
+{
+  "text": " Crime denunciado, vamos desse aqui? É, não vai dar, né? Como é que eu vou? Dá pra achar um carro qualquer aqui. Vai ter que ser pega, provavelmente, né? Opa! Vamos lá, que eu vou roubar esse carro aqui? Vamos lá. Vai, vai! Isso! Sai! Ih! Pera aí, o que? Ah, tô fazendo um Hotwire! Não sai, sai, sai, sai! Sai, sai, sai, sai, sai! Tomei! Tomei! Se fudeu! A primeira morte é assim!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.26,
+      "text": " Crime denunciado, vamos desse aqui?",
+      "tokens": [
+        50365,
+        26140,
+        1441,
+        11228,
+        1573,
+        11,
+        5295,
+        17864,
+        3871,
+        30,
+        50428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Crime",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.44091796875
+        },
+        {
+          "word": " denunciado,",
+          "start": 0.22,
+          "end": 0.8,
+          "probability": 0.9765625
+        },
+        {
+          "word": " vamos",
+          "start": 0.86,
+          "end": 0.94,
+          "probability": 0.96435546875
+        },
+        {
+          "word": " desse",
+          "start": 0.94,
+          "end": 1.06,
+          "probability": 0.3134765625
+        },
+        {
+          "word": " aqui?",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.99365234375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.899999999999999,
+      "end": 8.64,
+      "text": " É, não vai dar, né?",
+      "tokens": [
+        50754,
+        4922,
+        11,
+        2431,
+        4405,
+        4072,
+        11,
+        7024,
+        30,
+        50798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " É,",
+          "start": 5.899999999999999,
+          "end": 6.18,
+          "probability": 0.5341796875
+        },
+        {
+          "word": " não",
+          "start": 8.16,
+          "end": 8.22,
+          "probability": 0.99609375
+        },
+        {
+          "word": " vai",
+          "start": 8.22,
+          "end": 8.36,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " dar,",
+          "start": 8.36,
+          "end": 8.46,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " né?",
+          "start": 8.58,
+          "end": 8.64,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.2,
+      "end": 11.82,
+      "text": " Como é que eu vou?",
+      "tokens": [
+        50923,
+        11913,
+        1136,
+        631,
+        2228,
+        6008,
+        30,
+        50957
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Como",
+          "start": 11.2,
+          "end": 11.48,
+          "probability": 0.78173828125
+        },
+        {
+          "word": " é",
+          "start": 11.48,
+          "end": 11.56,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " que",
+          "start": 11.56,
+          "end": 11.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " eu",
+          "start": 11.6,
+          "end": 11.68,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " vou?",
+          "start": 11.68,
+          "end": 11.82,
+          "probability": 0.98486328125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.66,
+      "end": 14.04,
+      "text": " Dá pra achar um carro qualquer aqui.",
+      "tokens": [
+        50998,
+        49794,
+        3206,
+        2800,
+        289,
+        1105,
+        23428,
+        20437,
+        3871,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Dá",
+          "start": 12.66,
+          "end": 12.94,
+          "probability": 0.277587890625
+        },
+        {
+          "word": " pra",
+          "start": 12.94,
+          "end": 13.04,
+          "probability": 0.2841796875
+        },
+        {
+          "word": " achar",
+          "start": 13.04,
+          "end": 13.16,
+          "probability": 0.94921875
+        },
+        {
+          "word": " um",
+          "start": 13.16,
+          "end": 13.28,
+          "probability": 0.8974609375
+        },
+        {
+          "word": " carro",
+          "start": 13.28,
+          "end": 13.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " qualquer",
+          "start": 13.42,
+          "end": 13.64,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " aqui.",
+          "start": 13.64,
+          "end": 14.04,
+          "probability": 0.9921875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.82,
+      "end": 18.32,
+      "text": " Vai ter que ser pega, provavelmente, né?",
+      "tokens": [
+        51205,
+        24206,
+        1796,
+        631,
+        816,
+        43005,
+        11,
+        28959,
+        39786,
+        11,
+        7024,
+        30,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Vai",
+          "start": 16.82,
+          "end": 17.1,
+          "probability": 0.56201171875
+        },
+        {
+          "word": " ter",
+          "start": 17.1,
+          "end": 17.22,
+          "probability": 0.966796875
+        },
+        {
+          "word": " que",
+          "start": 17.22,
+          "end": 17.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " ser",
+          "start": 17.3,
+          "end": 17.4,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " pega,",
+          "start": 17.4,
+          "end": 17.64,
+          "probability": 0.93310546875
+        },
+        {
+          "word": " provavelmente,",
+          "start": 17.72,
+          "end": 18.12,
+          "probability": 0.998046875
+        },
+        {
+          "word": " né?",
+          "start": 18.24,
+          "end": 18.32,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.56,
+      "end": 18.76,
+      "text": " Opa!",
+      "tokens": [
+        51291,
+        422,
+        4306,
+        0,
+        51301
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Opa!",
+          "start": 18.56,
+          "end": 18.76,
+          "probability": 0.92138671875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.12,
+      "end": 22.18,
+      "text": " Vamos lá, que eu vou roubar esse carro aqui?",
+      "tokens": [
+        51422,
+        10894,
+        7453,
+        11,
+        631,
+        2228,
+        6008,
+        18450,
+        5356,
+        6755,
+        23428,
+        3871,
+        30,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 21.12,
+          "end": 21.34,
+          "probability": 0.2232666015625
+        },
+        {
+          "word": " lá,",
+          "start": 21.34,
+          "end": 21.4,
+          "probability": 0.7744140625
+        },
+        {
+          "word": " que",
+          "start": 21.42,
+          "end": 21.52,
+          "probability": 0.2080078125
+        },
+        {
+          "word": " eu",
+          "start": 21.52,
+          "end": 21.52,
+          "probability": 0.79296875
+        },
+        {
+          "word": " vou",
+          "start": 21.52,
+          "end": 21.6,
+          "probability": 0.321533203125
+        },
+        {
+          "word": " roubar",
+          "start": 21.6,
+          "end": 21.76,
+          "probability": 0.990234375
+        },
+        {
+          "word": " esse",
+          "start": 21.76,
+          "end": 21.86,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " carro",
+          "start": 21.86,
+          "end": 22.0,
+          "probability": 1.0
+        },
+        {
+          "word": " aqui?",
+          "start": 22.0,
+          "end": 22.18,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.36,
+      "end": 22.66,
+      "text": " Vamos lá.",
+      "tokens": [
+        51484,
+        10894,
+        7453,
+        13,
+        51496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 22.36,
+          "end": 22.5,
+          "probability": 0.93115234375
+        },
+        {
+          "word": " lá.",
+          "start": 22.5,
+          "end": 22.66,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.92,
+      "end": 24.34,
+      "text": " Vai, vai!",
+      "tokens": [
+        51559,
+        24206,
+        11,
+        4405,
+        0,
+        51584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Vai,",
+          "start": 23.92,
+          "end": 24.2,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " vai!",
+          "start": 24.26,
+          "end": 24.34,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 24.86,
+      "end": 25.14,
+      "text": " Isso!",
+      "tokens": [
+        51606,
+        14887,
+        0,
+        51622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Isso!",
+          "start": 24.86,
+          "end": 25.14,
+          "probability": 0.9912109375
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 27.8,
+      "end": 28.08,
+      "text": " Sai!",
+      "tokens": [
+        51757,
+        27987,
+        0,
+        51769
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Sai!",
+          "start": 27.8,
+          "end": 28.08,
+          "probability": 0.986328125
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 28.78,
+      "end": 28.96,
+      "text": " Ih!",
+      "tokens": [
+        51806,
+        10485,
+        0,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Ih!",
+          "start": 28.78,
+          "end": 28.96,
+          "probability": 0.7607421875
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 29.34,
+      "end": 29.86,
+      "text": " Pera aí, o que?",
+      "tokens": [
+        51835,
+        430,
+        1663,
+        7461,
+        11,
+        277,
+        631,
+        30,
+        51859
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5598949614025298,
+      "compression_ratio": 1.4162162162162162,
+      "no_speech_prob": 1.0246436511762713e-11,
+      "words": [
+        {
+          "word": " Pera",
+          "start": 29.34,
+          "end": 29.56,
+          "probability": 0.828125
+        },
+        {
+          "word": " aí,",
+          "start": 29.56,
+          "end": 29.66,
+          "probability": 0.425537109375
+        },
+        {
+          "word": " o",
+          "start": 29.78,
+          "end": 29.86,
+          "probability": 0.53955078125
+        },
+        {
+          "word": " que?",
+          "start": 29.86,
+          "end": 29.86,
+          "probability": 0.61767578125
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 31.84,
+      "text": " Ah, tô fazendo um Hotwire!",
+      "tokens": [
+        50365,
+        2438,
+        11,
+        20683,
+        20741,
+        1105,
+        9423,
+        42689,
+        0,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 30.0,
+          "end": 30.9,
+          "probability": 0.2548828125
+        },
+        {
+          "word": " tô",
+          "start": 31.02,
+          "end": 31.04,
+          "probability": 0.49462890625
+        },
+        {
+          "word": " fazendo",
+          "start": 31.04,
+          "end": 31.3,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " um",
+          "start": 31.3,
+          "end": 31.48,
+          "probability": 0.79248046875
+        },
+        {
+          "word": " Hotwire!",
+          "start": 31.48,
+          "end": 31.84,
+          "probability": 0.54052734375
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 32.74,
+      "end": 34.58,
+      "text": " Não sai, sai, sai, sai!",
+      "tokens": [
+        50465,
+        8010,
+        32417,
+        11,
+        32417,
+        11,
+        32417,
+        11,
+        32417,
+        0,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Não",
+          "start": 32.74,
+          "end": 33.26,
+          "probability": 0.417724609375
+        },
+        {
+          "word": " sai,",
+          "start": 33.26,
+          "end": 33.48,
+          "probability": 0.90576171875
+        },
+        {
+          "word": " sai,",
+          "start": 33.62,
+          "end": 33.68,
+          "probability": 0.5732421875
+        },
+        {
+          "word": " sai,",
+          "start": 33.84,
+          "end": 34.06,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " sai!",
+          "start": 34.34,
+          "end": 34.58,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 34.58,
+      "end": 35.32,
+      "text": " Sai, sai, sai, sai, sai!",
+      "tokens": [
+        50565,
+        27987,
+        11,
+        32417,
+        11,
+        32417,
+        11,
+        32417,
+        11,
+        32417,
+        0,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Sai,",
+          "start": 34.58,
+          "end": 34.84,
+          "probability": 0.548828125
+        },
+        {
+          "word": " sai,",
+          "start": 34.9,
+          "end": 35.02,
+          "probability": 0.09661865234375
+        },
+        {
+          "word": " sai,",
+          "start": 35.02,
+          "end": 35.06,
+          "probability": 0.3759765625
+        },
+        {
+          "word": " sai,",
+          "start": 35.06,
+          "end": 35.06,
+          "probability": 0.56298828125
+        },
+        {
+          "word": " sai!",
+          "start": 35.06,
+          "end": 35.32,
+          "probability": 0.59716796875
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 36.36,
+      "end": 36.88,
+      "text": " Tomei!",
+      "tokens": [
+        50665,
+        314,
+        423,
+        72,
+        0,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Tomei!",
+          "start": 36.36,
+          "end": 36.88,
+          "probability": 0.84423828125
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 3000,
+      "start": 42.36,
+      "end": 42.88,
+      "text": " Tomei!",
+      "tokens": [
+        50965,
+        314,
+        423,
+        72,
+        0,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Tomei!",
+          "start": 42.36,
+          "end": 42.88,
+          "probability": 0.66650390625
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 3000,
+      "start": 44.3,
+      "end": 45.3,
+      "text": " Se fudeu!",
+      "tokens": [
+        51065,
+        1100,
+        283,
+        2303,
+        84,
+        0,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " Se",
+          "start": 44.3,
+          "end": 44.82,
+          "probability": 0.90478515625
+        },
+        {
+          "word": " fudeu!",
+          "start": 44.82,
+          "end": 45.3,
+          "probability": 0.84619140625
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 3000,
+      "start": 46.74,
+      "end": 48.02,
+      "text": " A primeira morte é assim!",
+      "tokens": [
+        51165,
+        316,
+        21158,
+        37392,
+        1136,
+        8249,
+        0,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46565230948026065,
+      "compression_ratio": 1.3473684210526315,
+      "no_speech_prob": 3.889623692576727e-11,
+      "words": [
+        {
+          "word": " A",
+          "start": 46.74,
+          "end": 47.0,
+          "probability": 0.958984375
+        },
+        {
+          "word": " primeira",
+          "start": 47.0,
+          "end": 47.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " morte",
+          "start": 47.3,
+          "end": 47.64,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " é",
+          "start": 47.64,
+          "end": 47.78,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " assim!",
+          "start": 47.78,
+          "end": 48.02,
+          "probability": 0.998046875
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

@@ -1,0 +1,50 @@
+{
+  "version": 4,
+  "updatedBy": "transferência: preferências editoriais preservadas; autorização zerada",
+  "validationOnly": true,
+  "batchSize": 5,
+  "gameplayFirst": true,
+  "hookImmediately": true,
+  "removeDeadAir": true,
+  "layout": {
+    "safeTop": 144,
+    "speakerHeight": 576,
+    "gameplayHeight": 1200,
+    "captionY": 728,
+    "safeSide": 80
+  },
+  "captions": {
+    "font": "Arial Black",
+    "fontSize": 80,
+    "bold": true,
+    "scaleX": 102,
+    "outline": 5,
+    "shadow": 1,
+    "maxWords": 3,
+    "maxCharacters": 18,
+    "fade": false,
+    "oneEventPerPhrase": true,
+    "activeWordYellow": true
+  },
+  "keepPreviousHashtags": true,
+  "publishNewBatch": false,
+  "openingTitle": false,
+  "hookStyle": "fala e ação, sem título extra sobre o vídeo",
+  "publication": {
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "profile": "",
+    "intervalMinutes": 30,
+    "approvedVideoIds": [],
+    "keepCurrentRenders": true
+  },
+  "approvalRequiredForEveryBatch": true,
+  "approvalScopeVideoIds": [],
+  "nextBatch": {
+    "requiresManualApproval": true,
+    "openingTitle": false,
+    "publicationIntervalMinutes": 30
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "text": " Fiquem atentos, tá? No que vai ter amanhã. Agora, é... Eu fiz, tá? Um remaster da nossa intro lá de trás. Vai rolar um remaster, tá? Então, acho que a galera que me via lá vai só...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.92,
+      "text": " Fiquem atentos, tá?",
+      "tokens": [
+        50365,
+        479,
+        3221,
+        443,
+        412,
+        317,
+        329,
+        11,
+        7737,
+        30,
+        50412
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Fiquem",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.86474609375
+        },
+        {
+          "word": " atentos,",
+          "start": 0.12,
+          "end": 0.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " tá?",
+          "start": 0.62,
+          "end": 0.92,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.08,
+      "end": 1.8,
+      "text": " No que vai ter amanhã.",
+      "tokens": [
+        50421,
+        883,
+        631,
+        4405,
+        1796,
+        42943,
+        36320,
+        13,
+        50456
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 1.08,
+          "end": 1.26,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " que",
+          "start": 1.26,
+          "end": 1.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " vai",
+          "start": 1.36,
+          "end": 1.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " ter",
+          "start": 1.46,
+          "end": 1.56,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " amanhã.",
+          "start": 1.56,
+          "end": 1.8,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.16,
+      "end": 4.04,
+      "text": " Agora, é...",
+      "tokens": [
+        50479,
+        16023,
+        11,
+        1136,
+        485,
+        50574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Agora,",
+          "start": 2.16,
+          "end": 2.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " é...",
+          "start": 3.08,
+          "end": 4.04,
+          "probability": 0.9404296875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 4.04,
+      "end": 6.02,
+      "text": " Eu fiz, tá?",
+      "tokens": [
+        50574,
+        2186,
+        21000,
+        11,
+        7737,
+        30,
+        50668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 4.04,
+          "end": 5.02,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " fiz,",
+          "start": 5.02,
+          "end": 5.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " tá?",
+          "start": 5.68,
+          "end": 6.02,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 6.76,
+      "end": 10.54,
+      "text": " Um remaster da nossa intro lá de trás.",
+      "tokens": [
+        50709,
+        3301,
+        890,
+        1727,
+        1120,
+        15821,
+        12897,
+        7453,
+        368,
+        46189,
+        13,
+        50894
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Um",
+          "start": 6.76,
+          "end": 7.08,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " remaster",
+          "start": 7.08,
+          "end": 7.62,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " da",
+          "start": 7.62,
+          "end": 8.64,
+          "probability": 0.94140625
+        },
+        {
+          "word": " nossa",
+          "start": 8.64,
+          "end": 9.0,
+          "probability": 1.0
+        },
+        {
+          "word": " intro",
+          "start": 9.0,
+          "end": 9.5,
+          "probability": 0.99609375
+        },
+        {
+          "word": " lá",
+          "start": 9.5,
+          "end": 10.02,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " de",
+          "start": 10.02,
+          "end": 10.18,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " trás.",
+          "start": 10.18,
+          "end": 10.54,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.74,
+      "end": 13.54,
+      "text": " Vai rolar um remaster, tá?",
+      "tokens": [
+        50957,
+        24206,
+        744,
+        2200,
+        1105,
+        890,
+        1727,
+        11,
+        7737,
+        30,
+        51044
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Vai",
+          "start": 11.74,
+          "end": 12.34,
+          "probability": 0.966796875
+        },
+        {
+          "word": " rolar",
+          "start": 12.34,
+          "end": 12.56,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " um",
+          "start": 12.56,
+          "end": 12.64,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " remaster,",
+          "start": 12.64,
+          "end": 13.02,
+          "probability": 1.0
+        },
+        {
+          "word": " tá?",
+          "start": 13.42,
+          "end": 13.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 13.84,
+      "end": 16.580000000000002,
+      "text": " Então, acho que a galera que me via lá vai só...",
+      "tokens": [
+        51057,
+        6469,
+        11,
+        14253,
+        631,
+        257,
+        31912,
+        631,
+        385,
+        5766,
+        7453,
+        4405,
+        6238,
+        485,
+        51194
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28949687216016984,
+      "compression_ratio": 1.3082191780821917,
+      "no_speech_prob": 5.902333309604213e-12,
+      "words": [
+        {
+          "word": " Então,",
+          "start": 13.84,
+          "end": 14.04,
+          "probability": 0.998046875
+        },
+        {
+          "word": " acho",
+          "start": 14.14,
+          "end": 14.28,
+          "probability": 0.7744140625
+        },
+        {
+          "word": " que",
+          "start": 14.28,
+          "end": 14.36,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 14.36,
+          "end": 14.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " galera",
+          "start": 14.42,
+          "end": 14.64,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " que",
+          "start": 14.64,
+          "end": 14.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " me",
+          "start": 14.78,
+          "end": 14.92,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " via",
+          "start": 14.92,
+          "end": 15.24,
+          "probability": 0.98388671875
+        },
+        {
+          "word": " lá",
+          "start": 15.24,
+          "end": 15.62,
+          "probability": 0.70654296875
+        },
+        {
+          "word": " vai",
+          "start": 15.62,
+          "end": 15.94,
+          "probability": 0.75244140625
+        },
+        {
+          "word": " só...",
+          "start": 15.94,
+          "end": 16.580000000000002,
+          "probability": 0.8271484375
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

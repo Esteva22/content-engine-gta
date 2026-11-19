@@ -1,0 +1,23 @@
+{
+  "historicalOnly": true,
+  "authorizationTransferred": false,
+  "snapshot": {
+    "profile": "gta.takes",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "maxPerPlatform": 10,
+    "batchLimit": 5,
+    "videoIds": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "intervalMinutes": 30,
+    "instruction": "Aprovação explícita dos cinco novos. Primeiro em cada rede agora; quatro seguintes a cada 30 minutos. Não reenviar os anteriores.",
+    "created": "2026-11-19T00:53:25.237Z"
+  }
+}

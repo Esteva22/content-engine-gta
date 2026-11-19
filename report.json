@@ -1,0 +1,1080 @@
+[
+  {
+    "id": 21,
+    "title": "O carro mudou — e a fuga deu errado",
+    "duration": 26.79,
+    "batchId": "gameplay-v3-2026-11-18",
+    "selectionKey": "carro-pesado",
+    "rendererRevision": 3,
+    "visualMode": "gameplay",
+    "speakerCrop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "words": [
+      {
+        "start": 0,
+        "end": 0.6799999999999997,
+        "word": "Caraca,"
+      },
+      {
+        "start": 0.6799999999999997,
+        "end": 0.9200000000000017,
+        "word": "é"
+      },
+      {
+        "start": 0.9200000000000017,
+        "end": 2.020000000000003,
+        "word": "pesadaço,"
+      },
+      {
+        "start": 2.0800000000000054,
+        "end": 2.1400000000000006,
+        "word": "o"
+      },
+      {
+        "start": 2.1400000000000006,
+        "end": 2.240000000000002,
+        "word": "carro"
+      },
+      {
+        "start": 2.240000000000002,
+        "end": 2.4200000000000017,
+        "word": "é"
+      },
+      {
+        "start": 2.4200000000000017,
+        "end": 2.5800000000000054,
+        "word": "muito"
+      },
+      {
+        "start": 2.5800000000000054,
+        "end": 2.980000000000004,
+        "word": "diferente"
+      },
+      {
+        "start": 2.980000000000004,
+        "end": 3.9000000000000057,
+        "word": "Do"
+      },
+      {
+        "start": 3.9000000000000057,
+        "end": 3.980000000000004,
+        "word": "que"
+      },
+      {
+        "start": 3.980000000000004,
+        "end": 4.080000000000005,
+        "word": "a"
+      },
+      {
+        "start": 4.080000000000005,
+        "end": 4.160000000000004,
+        "word": "gente"
+      },
+      {
+        "start": 4.160000000000004,
+        "end": 4.280000000000001,
+        "word": "tá"
+      },
+      {
+        "start": 4.280000000000001,
+        "end": 4.740000000000002,
+        "word": "acostumado,"
+      },
+      {
+        "start": 4.800000000000004,
+        "end": 5.080000000000005,
+        "word": "galera"
+      },
+      {
+        "start": 5.780000000000001,
+        "end": 6.460000000000001,
+        "word": "Muito"
+      },
+      {
+        "start": 6.460000000000001,
+        "end": 7.039999999999999,
+        "word": "diferente"
+      },
+      {
+        "start": 10.880000000000003,
+        "end": 11.560000000000002,
+        "word": "Cara,"
+      },
+      {
+        "start": 11.560000000000002,
+        "end": 12.240000000000002,
+        "word": "é"
+      },
+      {
+        "start": 12.240000000000002,
+        "end": 12.960000000000008,
+        "word": "muito"
+      },
+      {
+        "start": 12.960000000000008,
+        "end": 13.680000000000007,
+        "word": "diferente"
+      },
+      {
+        "start": 13.680000000000007,
+        "end": 14.360000000000007,
+        "word": "Mas"
+      },
+      {
+        "start": 14.360000000000007,
+        "end": 14.600000000000009,
+        "word": "assim,"
+      },
+      {
+        "start": 15.140000000000008,
+        "end": 15.760000000000005,
+        "word": "muito"
+      },
+      {
+        "start": 15.760000000000005,
+        "end": 16.340000000000003,
+        "word": "diferente"
+      },
+      {
+        "start": 16.340000000000003,
+        "end": 17.120000000000005,
+        "word": "dirigir"
+      },
+      {
+        "start": 17.120000000000005,
+        "end": 17.200000000000003,
+        "word": "o"
+      },
+      {
+        "start": 17.200000000000003,
+        "end": 17.4,
+        "word": "carro"
+      },
+      {
+        "start": 17.4,
+        "end": 17.580000000000005,
+        "word": "é"
+      },
+      {
+        "start": 17.580000000000005,
+        "end": 18.260000000000005,
+        "word": "muito"
+      },
+      {
+        "start": 18.260000000000005,
+        "end": 18.64,
+        "word": "mais"
+      },
+      {
+        "start": 18.64,
+        "end": 19.200000000000003,
+        "word": "pesado,"
+      },
+      {
+        "start": 19.32,
+        "end": 19.42,
+        "word": "tá?"
+      },
+      {
+        "start": 19.660000000000004,
+        "end": 19.840000000000003,
+        "word": "Mas"
+      },
+      {
+        "start": 19.840000000000003,
+        "end": 20.04,
+        "word": "assim,"
+      },
+      {
+        "start": 20.18,
+        "end": 20.78,
+        "word": "muito"
+      },
+      {
+        "start": 20.78,
+        "end": 21.060000000000002,
+        "word": "mais"
+      },
+      {
+        "start": 21.060000000000002,
+        "end": 21.5,
+        "word": "pesado"
+      },
+      {
+        "start": 21.5,
+        "end": 21.78,
+        "word": "é"
+      },
+      {
+        "start": 21.78,
+        "end": 22.4,
+        "word": "totalmente"
+      },
+      {
+        "start": 22.4,
+        "end": 22.940000000000005,
+        "word": "diferente,"
+      },
+      {
+        "start": 23.000000000000007,
+        "end": 23.360000000000007,
+        "word": "galera."
+      },
+      {
+        "start": 23.96,
+        "end": 24.46,
+        "word": "Tem"
+      },
+      {
+        "start": 24.46,
+        "end": 24.54,
+        "word": "que"
+      },
+      {
+        "start": 24.54,
+        "end": 25.360000000000007,
+        "word": "reacostumar"
+      },
+      {
+        "start": 25.360000000000007,
+        "end": 25.580000000000005,
+        "word": "tudo"
+      },
+      {
+        "start": 25.580000000000005,
+        "end": 25.800000000000004,
+        "word": "aqui."
+      },
+      {
+        "start": 25.880000000000003,
+        "end": 26.04,
+        "word": "É"
+      },
+      {
+        "start": 26.04,
+        "end": 26.300000000000004,
+        "word": "muito"
+      },
+      {
+        "start": 26.300000000000004,
+        "end": 26.759999999999998,
+        "word": "diferente."
+      }
+    ],
+    "hook": "ESSE CARRO NÃO PERDOA",
+    "reason": "Dificuldade real de dirigir, fuga sob tiros e morte: conflito visual e consequência, seguida da reação sobre o peso do carro.",
+    "risks": "Violência de videogame e palavrão. Cortes temporais removem tela de carregamento; a reação continua atribuída ao momento original.",
+    "sourceUrl": "https://kick.com/davyjones/clips/clip_01M7Q76TKMYFF8AX7HG1PE0HS5",
+    "sourceRanges": [
+      [
+        36.62,
+        43.8
+      ],
+      [
+        45,
+        48.7
+      ],
+      [
+        50.12,
+        55.58
+      ],
+      [
+        57.6,
+        68.05
+      ]
+    ],
+    "selection": "curated_assisted",
+    "editorialTitle": "O carro mudou — e a fuga deu errado",
+    "validationOnly": true,
+    "preferencesVersion": 3,
+    "editNotes": null,
+    "output": "data/media/7b14d49f-8d22-4622-ac9b-f5ddadad5e28.mp4",
+    "thumbnail": "data/media/7b14d49f-8d22-4622-ac9b-f5ddadad5e28.jpg",
+    "subtitles": "data/media/7b14d49f-8d22-4622-ac9b-f5ddadad5e28.ass",
+    "transcript": "data/media/7b14d49f-8d22-4622-ac9b-f5ddadad5e28.json",
+    "export": "data/exports/validacao-v3/01-carro-pesado.mp4"
+  },
+  {
+    "id": 22,
+    "title": "Sem mira automática: a pressão do tiroteio",
+    "duration": 23.22,
+    "batchId": "gameplay-v3-2026-11-18",
+    "selectionKey": "tiroteio",
+    "rendererRevision": 3,
+    "visualMode": "gameplay",
+    "speakerCrop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "words": [
+      {
+        "start": 0,
+        "end": 0.74,
+        "word": "Bora!"
+      },
+      {
+        "start": 21.200000000000003,
+        "end": 22.28,
+        "word": "Atirar"
+      },
+      {
+        "start": 22.28,
+        "end": 22.400000000000006,
+        "word": "não"
+      },
+      {
+        "start": 22.400000000000006,
+        "end": 22.540000000000006,
+        "word": "dá"
+      },
+      {
+        "start": 22.540000000000006,
+        "end": 22.860000000000007,
+        "word": "snap"
+      },
+      {
+        "start": 22.860000000000007,
+        "end": 23.220000000000006,
+        "word": "mais"
+      }
+    ],
+    "hook": "CADÊ A MIRA AUTOMÁTICA?",
+    "reason": "Combate já no primeiro segundo, inimigos e saída até o carro. Fecha com a observação do criador sobre o snap da mira.",
+    "risks": "A observação final foi antecipada de um ponto posterior do mesmo clipe; não é afirmação técnica independente. Preservar áudio do combate.",
+    "sourceUrl": "https://kick.com/davyjones/clips/clip_01M7Q76TKMYFF8AX7HG1PE0HS5",
+    "sourceRanges": [
+      [
+        0,
+        0.8
+      ],
+      [
+        3,
+        15.6
+      ],
+      [
+        17.8,
+        25.6
+      ],
+      [
+        55.58,
+        57.6
+      ]
+    ],
+    "selection": "curated_assisted",
+    "editorialTitle": "Sem mira automática: a pressão do tiroteio",
+    "validationOnly": true,
+    "preferencesVersion": 3,
+    "editNotes": null,
+    "output": "data/media/6a9ca959-2b70-4d0d-b14a-66abcb5adc5f.mp4",
+    "thumbnail": "data/media/6a9ca959-2b70-4d0d-b14a-66abcb5adc5f.jpg",
+    "subtitles": "data/media/6a9ca959-2b70-4d0d-b14a-66abcb5adc5f.ass",
+    "transcript": "data/media/6a9ca959-2b70-4d0d-b14a-66abcb5adc5f.json",
+    "export": "data/exports/validacao-v3/02-tiroteio.mp4"
+  },
+  {
+    "id": 23,
+    "title": "O treino acabou com a energia dele",
+    "duration": 22.97,
+    "batchId": "gameplay-v3-2026-11-18",
+    "selectionKey": "academia",
+    "rendererRevision": 3,
+    "visualMode": "gameplay",
+    "speakerCrop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "words": [
+      {
+        "start": 3.552713678800501e-15,
+        "end": 0.40000000000000213,
+        "word": "Eu"
+      },
+      {
+        "start": 0.40000000000000213,
+        "end": 0.5999999999999979,
+        "word": "gasto"
+      },
+      {
+        "start": 0.5999999999999979,
+        "end": 0.6999999999999993,
+        "word": "minha"
+      },
+      {
+        "start": 0.6999999999999993,
+        "end": 0.9199999999999982,
+        "word": "energia"
+      },
+      {
+        "start": 0.9199999999999982,
+        "end": 1.0399999999999956,
+        "word": "pra"
+      },
+      {
+        "start": 1.0399999999999956,
+        "end": 1.4800000000000004,
+        "word": "cacete"
+      },
+      {
+        "start": 1.5299999999999976,
+        "end": 1.969999999999997,
+        "word": "Vamos"
+      },
+      {
+        "start": 1.969999999999997,
+        "end": 2.4099999999999975,
+        "word": "começar"
+      },
+      {
+        "start": 2.4099999999999975,
+        "end": 2.629999999999998,
+        "word": "aqui"
+      },
+      {
+        "start": 2.629999999999998,
+        "end": 2.889999999999998,
+        "word": "no"
+      },
+      {
+        "start": 2.889999999999998,
+        "end": 3.349999999999998,
+        "word": "supino"
+      },
+      {
+        "start": 3.349999999999998,
+        "end": 3.9499999999999975,
+        "word": "Vamos"
+      },
+      {
+        "start": 3.9499999999999975,
+        "end": 4.009999999999998,
+        "word": "de"
+      },
+      {
+        "start": 4.009999999999998,
+        "end": 4.369999999999997,
+        "word": "supino"
+      },
+      {
+        "start": 4.399999999999998,
+        "end": 4.839999999999997,
+        "word": "Eu"
+      },
+      {
+        "start": 4.839999999999997,
+        "end": 5.2799999999999985,
+        "word": "posso"
+      },
+      {
+        "start": 5.2799999999999985,
+        "end": 5.899999999999998,
+        "word": "mexer"
+      },
+      {
+        "start": 5.899999999999998,
+        "end": 6.059999999999998,
+        "word": "aqui"
+      },
+      {
+        "start": 6.059999999999998,
+        "end": 6.2399999999999975,
+        "word": "nos"
+      },
+      {
+        "start": 6.2399999999999975,
+        "end": 6.719999999999998,
+        "word": "pesos"
+      },
+      {
+        "start": 6.719999999999998,
+        "end": 6.999999999999997,
+        "word": "O"
+      },
+      {
+        "start": 6.999999999999997,
+        "end": 7.2399999999999975,
+        "word": "atual"
+      },
+      {
+        "start": 7.2399999999999975,
+        "end": 7.459999999999996,
+        "word": "fala"
+      },
+      {
+        "start": 7.459999999999996,
+        "end": 7.579999999999997,
+        "word": "que"
+      },
+      {
+        "start": 7.579999999999997,
+        "end": 7.6199999999999966,
+        "word": "é"
+      },
+      {
+        "start": 7.6199999999999966,
+        "end": 7.719999999999998,
+        "word": "esse"
+      },
+      {
+        "start": 7.719999999999998,
+        "end": 7.879999999999998,
+        "word": "aqui,"
+      },
+      {
+        "start": 7.899999999999998,
+        "end": 7.999999999999999,
+        "word": "então"
+      },
+      {
+        "start": 7.999999999999999,
+        "end": 8.139999999999997,
+        "word": "vamos"
+      },
+      {
+        "start": 8.139999999999997,
+        "end": 8.36,
+        "word": "aqui"
+      },
+      {
+        "start": 8.36,
+        "end": 8.82,
+        "word": "O"
+      },
+      {
+        "start": 8.82,
+        "end": 8.899999999999999,
+        "word": "que"
+      },
+      {
+        "start": 8.899999999999999,
+        "end": 8.959999999999997,
+        "word": "eu"
+      },
+      {
+        "start": 8.959999999999997,
+        "end": 8.979999999999997,
+        "word": "tenho"
+      },
+      {
+        "start": 8.979999999999997,
+        "end": 9.02,
+        "word": "que"
+      },
+      {
+        "start": 9.02,
+        "end": 9.16,
+        "word": "fazer,"
+      },
+      {
+        "start": 9.18,
+        "end": 9.759999999999998,
+        "word": "levantar"
+      },
+      {
+        "start": 11.259999999999998,
+        "end": 11.7,
+        "word": "Abaixar"
+      },
+      {
+        "start": 15.250000000000007,
+        "end": 15.650000000000006,
+        "word": "Beleza,"
+      },
+      {
+        "start": 15.71,
+        "end": 15.770000000000003,
+        "word": "fiz"
+      },
+      {
+        "start": 15.770000000000003,
+        "end": 15.910000000000004,
+        "word": "o"
+      },
+      {
+        "start": 15.910000000000004,
+        "end": 16.110000000000007,
+        "word": "máximo"
+      },
+      {
+        "start": 16.110000000000007,
+        "end": 16.290000000000006,
+        "word": "que"
+      },
+      {
+        "start": 16.290000000000006,
+        "end": 16.67,
+        "word": "dava"
+      },
+      {
+        "start": 18.790000000000006,
+        "end": 19.190000000000005,
+        "word": "Aumentou"
+      },
+      {
+        "start": 19.190000000000005,
+        "end": 19.25,
+        "word": "o"
+      },
+      {
+        "start": 19.25,
+        "end": 19.35,
+        "word": "treino"
+      },
+      {
+        "start": 19.35,
+        "end": 19.470000000000006,
+        "word": "de"
+      },
+      {
+        "start": 19.470000000000006,
+        "end": 19.67,
+        "word": "força"
+      },
+      {
+        "start": 19.67,
+        "end": 20.090000000000003,
+        "word": "Ah,"
+      },
+      {
+        "start": 20.230000000000004,
+        "end": 20.35,
+        "word": "ele"
+      },
+      {
+        "start": 20.35,
+        "end": 20.550000000000004,
+        "word": "ficou"
+      },
+      {
+        "start": 20.550000000000004,
+        "end": 20.950000000000003,
+        "word": "cansado,"
+      },
+      {
+        "start": 21.010000000000005,
+        "end": 21.090000000000003,
+        "word": "mas"
+      },
+      {
+        "start": 21.090000000000003,
+        "end": 21.21,
+        "word": "ele"
+      },
+      {
+        "start": 21.21,
+        "end": 21.310000000000002,
+        "word": "vai"
+      },
+      {
+        "start": 21.310000000000002,
+        "end": 21.690000000000005,
+        "word": "recuperando"
+      },
+      {
+        "start": 21.690000000000005,
+        "end": 22.110000000000007,
+        "word": "energia"
+      },
+      {
+        "start": 22.110000000000007,
+        "end": 22.89,
+        "word": "Legal"
+      }
+    ],
+    "hook": "O TREINO COBROU A CONTA",
+    "reason": "Abre na reação de cansaço, volta ao supino e entrega resultado na energia e força. Mecânica visível, contraste e identificação com treino.",
+    "risks": "Abertura antecipa uma reação do mesmo exercício. Saltos retiram espera e repetições sem novidade; não alterar ordem causal do resultado.",
+    "sourceUrl": "https://kick.com/davyjones/clips/clip_01M7Q9RN31W4S5WWZ1V0VGX3FB",
+    "sourceRanges": [
+      [
+        31.62,
+        33.15
+      ],
+      [
+        4.18,
+        7.05
+      ],
+      [
+        13,
+        20.35
+      ],
+      [
+        21,
+        24.5
+      ],
+      [
+        43.98,
+        51.7
+      ]
+    ],
+    "selection": "curated_assisted",
+    "editorialTitle": "O treino acabou com a energia dele",
+    "validationOnly": true,
+    "preferencesVersion": 3,
+    "editNotes": null,
+    "output": "data/media/f28883d5-c975-457b-8171-f482479c0f5b.mp4",
+    "thumbnail": "data/media/f28883d5-c975-457b-8171-f482479c0f5b.jpg",
+    "subtitles": "data/media/f28883d5-c975-457b-8171-f482479c0f5b.ass",
+    "transcript": "data/media/f28883d5-c975-457b-8171-f482479c0f5b.json",
+    "export": "data/exports/validacao-v3/03-academia.mp4"
+  },
+  {
+    "id": 24,
+    "title": "Ele parou para ouvir o rolo de pintura",
+    "duration": 9.3,
+    "batchId": "gameplay-v3-2026-11-18",
+    "selectionKey": "som-rolo",
+    "rendererRevision": 3,
+    "visualMode": "gameplay",
+    "speakerCrop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "words": [
+      {
+        "start": 0,
+        "end": 0.6799999999999997,
+        "word": "Ah,"
+      },
+      {
+        "start": 5.26,
+        "end": 5.3199999999999985,
+        "word": "o"
+      },
+      {
+        "start": 5.3199999999999985,
+        "end": 5.539999999999999,
+        "word": "efeito"
+      },
+      {
+        "start": 5.539999999999999,
+        "end": 6,
+        "word": "sonoro"
+      },
+      {
+        "start": 6,
+        "end": 6.119999999999999,
+        "word": "do"
+      },
+      {
+        "start": 6.119999999999999,
+        "end": 6.459999999999999,
+        "word": "rolo"
+      },
+      {
+        "start": 6.459999999999999,
+        "end": 6.739999999999998,
+        "word": "Cara,"
+      },
+      {
+        "start": 8.68,
+        "end": 9.2,
+        "word": "absurdo"
+      }
+    ],
+    "hook": "ESCUTA ESSE DETALHE",
+    "reason": "Detalhe sonoro reconhecível durante ação controlada: o criador destaca o som do rolo e fecha com surpresa. Corte curto para estimular ouvir de novo.",
+    "risks": "Potencial mais específico para público de detalhes e realismo. Preservar som do jogo, sem música por cima.",
+    "sourceUrl": "https://kick.com/davyjones/clips/clip_01M7Q94QS5ZF5R970KQYRAJW79",
+    "sourceRanges": [
+      [
+        8.46,
+        17.76
+      ]
+    ],
+    "selection": "curated_assisted",
+    "editorialTitle": "Ele parou para ouvir o rolo de pintura",
+    "validationOnly": true,
+    "preferencesVersion": 3,
+    "editNotes": "Gancho contínuo durante a escuta do som do rolo, preservado como conteúdo do corte.",
+    "output": "data/media/93248e45-00aa-4f29-ac55-4eb7459220d2.mp4",
+    "thumbnail": "data/media/93248e45-00aa-4f29-ac55-4eb7459220d2.jpg",
+    "subtitles": "data/media/93248e45-00aa-4f29-ac55-4eb7459220d2.ass",
+    "transcript": "data/media/93248e45-00aa-4f29-ac55-4eb7459220d2.json",
+    "export": "data/exports/validacao-v3/04-som-rolo.mp4",
+    "hookDuration": 5.2
+  },
+  {
+    "id": 25,
+    "title": "Era só consertar a pia… até aparecer isso",
+    "duration": 14.84,
+    "batchId": "gameplay-v3-2026-11-18",
+    "selectionKey": "pia-surpresa",
+    "rendererRevision": 3,
+    "visualMode": "gameplay",
+    "speakerCrop": {
+      "x": 0.785,
+      "y": 0.1,
+      "w": 0.213,
+      "h": 0.21
+    },
+    "words": [
+      {
+        "start": 0,
+        "end": 0.5599999999999952,
+        "word": "Cara,"
+      },
+      {
+        "start": 0.7399999999999949,
+        "end": 1.0799999999999983,
+        "word": "as"
+      },
+      {
+        "start": 1.0799999999999983,
+        "end": 1.519999999999996,
+        "word": "animações"
+      },
+      {
+        "start": 1.519999999999996,
+        "end": 1.6999999999999957,
+        "word": "desse"
+      },
+      {
+        "start": 1.6999999999999957,
+        "end": 1.9199999999999946,
+        "word": "jogo"
+      },
+      {
+        "start": 1.9199999999999946,
+        "end": 2.1199999999999974,
+        "word": "estão"
+      },
+      {
+        "start": 2.1199999999999974,
+        "end": 3.1999999999999957,
+        "word": "inacreditáveis"
+      },
+      {
+        "start": 3.1999999999999957,
+        "end": 3.5999999999999943,
+        "word": "Ainda"
+      },
+      {
+        "start": 3.5999999999999943,
+        "end": 3.719999999999999,
+        "word": "mais"
+      },
+      {
+        "start": 3.719999999999999,
+        "end": 3.819999999999993,
+        "word": "pro"
+      },
+      {
+        "start": 3.819999999999993,
+        "end": 3.9200000000000017,
+        "word": "jogo"
+      },
+      {
+        "start": 3.9200000000000017,
+        "end": 4,
+        "word": "de"
+      },
+      {
+        "start": 4,
+        "end": 4.099999999999994,
+        "word": "mundo"
+      },
+      {
+        "start": 4.099999999999994,
+        "end": 4.319999999999993,
+        "word": "ab..."
+      },
+      {
+        "start": 4.319999999999993,
+        "end": 4.780000000000001,
+        "word": "Eita"
+      },
+      {
+        "start": 4.780000000000001,
+        "end": 5.140000000000001,
+        "word": "porra,"
+      },
+      {
+        "start": 5.159999999999997,
+        "end": 5.239999999999995,
+        "word": "que"
+      },
+      {
+        "start": 5.239999999999995,
+        "end": 5.539999999999992,
+        "word": "isso,"
+      },
+      {
+        "start": 5.679999999999993,
+        "end": 6,
+        "word": "rapaz?"
+      },
+      {
+        "start": 6.8999999999999915,
+        "end": 7.219999999999999,
+        "word": "Pera"
+      },
+      {
+        "start": 7.219999999999999,
+        "end": 7.420000000000002,
+        "word": "aí,"
+      },
+      {
+        "start": 7.659999999999997,
+        "end": 7.819999999999993,
+        "word": "cara."
+      },
+      {
+        "start": 7.86999999999999,
+        "end": 8.349999999999994,
+        "word": "Que"
+      },
+      {
+        "start": 8.349999999999994,
+        "end": 8.649999999999991,
+        "word": "merda"
+      },
+      {
+        "start": 8.649999999999991,
+        "end": 8.809999999999988,
+        "word": "é"
+      },
+      {
+        "start": 8.809999999999988,
+        "end": 8.969999999999985,
+        "word": "essa?"
+      },
+      {
+        "start": 9.249999999999986,
+        "end": 9.649999999999991,
+        "word": "O quê?"
+      },
+      {
+        "start": 10.409999999999997,
+        "end": 10.609999999999985,
+        "word": "É"
+      },
+      {
+        "start": 10.609999999999985,
+        "end": 10.789999999999992,
+        "word": "um"
+      },
+      {
+        "start": 10.789999999999992,
+        "end": 11.189999999999984,
+        "word": "dedo"
+      },
+      {
+        "start": 11.189999999999984,
+        "end": 11.329999999999984,
+        "word": "de"
+      },
+      {
+        "start": 11.329999999999984,
+        "end": 11.449999999999989,
+        "word": "uma"
+      },
+      {
+        "start": 11.449999999999989,
+        "end": 11.849999999999994,
+        "word": "pessoa?"
+      },
+      {
+        "start": 11.859999999999985,
+        "end": 12.299999999999997,
+        "word": "Tinha"
+      },
+      {
+        "start": 12.299999999999997,
+        "end": 12.419999999999987,
+        "word": "um"
+      },
+      {
+        "start": 12.419999999999987,
+        "end": 12.699999999999989,
+        "word": "dedo"
+      },
+      {
+        "start": 12.699999999999989,
+        "end": 12.759999999999991,
+        "word": "de"
+      },
+      {
+        "start": 12.759999999999991,
+        "end": 12.859999999999985,
+        "word": "uma"
+      },
+      {
+        "start": 12.859999999999985,
+        "end": 13.279999999999987,
+        "word": "pessoa"
+      },
+      {
+        "start": 13.319999999999993,
+        "end": 13.47999999999999,
+        "word": "Já"
+      },
+      {
+        "start": 13.47999999999999,
+        "end": 13.779999999999987,
+        "word": "paguei"
+      },
+      {
+        "start": 13.779999999999987,
+        "end": 13.83999999999999,
+        "word": "o"
+      },
+      {
+        "start": 13.83999999999999,
+        "end": 14.099999999999994,
+        "word": "aluguel,"
+      },
+      {
+        "start": 14.099999999999994,
+        "end": 14.259999999999991,
+        "word": "olha"
+      },
+      {
+        "start": 14.259999999999991,
+        "end": 14.719999999999999,
+        "word": "aí"
+      }
+    ],
+    "hook": "ERA SÓ CONSERTAR A PIA",
+    "reason": "Uma tarefa banal de consertar a pia termina com um objeto inesperado e reação genuína. Abre com elogio às animações, revela a surpresa e fecha com o pagamento do aluguel.",
+    "risks": "Mistura interação controlada e diálogo de missão. Spoiler de evento e referência verbal a dedo humano. Não usar a transcrição automática do diálogo em inglês como fala do criador.",
+    "sourceUrl": "https://kick.com/davyjones/clips/clip_01M7QDGW9V03QM02S1TMYT4BNB",
+    "sourceRanges": [
+      [
+        60.7,
+        68.55
+      ],
+      [
+        104.98,
+        108.99
+      ],
+      [
+        110.32,
+        111.78
+      ],
+      [
+        115.48,
+        117
+      ]
+    ],
+    "selection": "curated_assisted",
+    "editorialTitle": "Era só consertar a pia… até aparecer isso",
+    "validationOnly": true,
+    "preferencesVersion": 3,
+    "editNotes": "Pausas e conversa intermediária removidas; apenas as falas em português do criador recebem legenda.",
+    "output": "data/media/2d0100fd-8810-46cb-b95b-76e8412b520f.mp4",
+    "thumbnail": "data/media/2d0100fd-8810-46cb-b95b-76e8412b520f.jpg",
+    "subtitles": "data/media/2d0100fd-8810-46cb-b95b-76e8412b520f.ass",
+    "transcript": "data/media/2d0100fd-8810-46cb-b95b-76e8412b520f.json",
+    "export": "data/exports/validacao-v3/05-pia-surpresa.mp4"
+  }
+]

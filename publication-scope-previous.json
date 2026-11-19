@@ -1,0 +1,21 @@
+{
+  "historicalOnly": true,
+  "authorizationTransferred": false,
+  "snapshot": {
+    "profile": "gta.takes",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "maxPerPlatform": 5,
+    "videoIds": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "instruction": "PARE EM 5 DE CADA.",
+    "created": "2026-11-19T00:03:16.758Z"
+  }
+}

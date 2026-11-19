@@ -1,0 +1,449 @@
+{
+  "text": " Legal, olha aí. Lúcia. Ih, não sabe que ele é Vai me ar Não, Jason, você tem que me dizer, você e eu, nós deveríamos se casar. Nós não sabemos mais nada. O que foi isso? Deixe-me alone, Jason, você...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.08,
+      "text": " Legal, olha aí.",
+      "tokens": [
+        50365,
+        33577,
+        11,
+        23550,
+        7461,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7491812133789062,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 3.02293086396066e-11,
+      "words": [
+        {
+          "word": " Legal,",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.2117919921875
+        },
+        {
+          "word": " olha",
+          "start": 0.24,
+          "end": 0.4,
+          "probability": 0.93701171875
+        },
+        {
+          "word": " aí.",
+          "start": 0.4,
+          "end": 1.08,
+          "probability": 0.837890625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 21.38,
+      "end": 21.7,
+      "text": " Lúcia.",
+      "tokens": [
+        51433,
+        441,
+        2481,
+        2755,
+        13,
+        51483
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7491812133789062,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 3.02293086396066e-11,
+      "words": [
+        {
+          "word": " Lúcia.",
+          "start": 21.38,
+          "end": 21.7,
+          "probability": 0.91455078125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2502,
+      "start": 25.02,
+      "end": 26.38,
+      "text": " Ih, não sabe que ele é",
+      "tokens": [
+        50365,
+        10485,
+        11,
+        2431,
+        12275,
+        631,
+        1118,
+        1136,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -1.0137240091959636,
+      "compression_ratio": 0.8297872340425532,
+      "no_speech_prob": 2.499417513235347e-11,
+      "words": [
+        {
+          "word": " Ih,",
+          "start": 25.02,
+          "end": 25.36,
+          "probability": 0.669921875
+        },
+        {
+          "word": " não",
+          "start": 25.48,
+          "end": 25.66,
+          "probability": 0.65673828125
+        },
+        {
+          "word": " sabe",
+          "start": 25.66,
+          "end": 25.96,
+          "probability": 0.86962890625
+        },
+        {
+          "word": " que",
+          "start": 25.96,
+          "end": 26.12,
+          "probability": 0.7734375
+        },
+        {
+          "word": " ele",
+          "start": 26.12,
+          "end": 26.18,
+          "probability": 0.818359375
+        },
+        {
+          "word": " é",
+          "start": 26.18,
+          "end": 26.38,
+          "probability": 0.81396484375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2502,
+      "start": 40.42,
+      "end": 41.24,
+      "text": " Vai me ar",
+      "tokens": [
+        51346,
+        24206,
+        385,
+        594,
+        51392
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -1.0137240091959636,
+      "compression_ratio": 0.8297872340425532,
+      "no_speech_prob": 2.499417513235347e-11,
+      "words": [
+        {
+          "word": " Vai",
+          "start": 40.42,
+          "end": 40.82,
+          "probability": 0.005069732666015625
+        },
+        {
+          "word": " me",
+          "start": 40.82,
+          "end": 41.22,
+          "probability": 0.521484375
+        },
+        {
+          "word": " ar",
+          "start": 41.22,
+          "end": 41.24,
+          "probability": 0.68505859375
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4590,
+      "start": 45.94,
+      "end": 49.9,
+      "text": " Não, Jason, você tem que me dizer, você e eu, nós deveríamos se casar.",
+      "tokens": [
+        50365,
+        8010,
+        11,
+        11181,
+        11,
+        2723,
+        1383,
+        631,
+        385,
+        17159,
+        11,
+        2723,
+        308,
+        2228,
+        11,
+        9738,
+        40739,
+        16275,
+        369,
+        3058,
+        289,
+        13,
+        50561
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9202861411898744,
+      "compression_ratio": 1.216,
+      "no_speech_prob": 4.316700608075763e-10,
+      "words": [
+        {
+          "word": " Não,",
+          "start": 45.94,
+          "end": 46.4,
+          "probability": 0.144287109375
+        },
+        {
+          "word": " Jason,",
+          "start": 46.68,
+          "end": 47.02,
+          "probability": 0.935546875
+        },
+        {
+          "word": " você",
+          "start": 47.16,
+          "end": 47.28,
+          "probability": 0.7646484375
+        },
+        {
+          "word": " tem",
+          "start": 47.28,
+          "end": 47.5,
+          "probability": 0.5869140625
+        },
+        {
+          "word": " que",
+          "start": 47.5,
+          "end": 47.7,
+          "probability": 0.95361328125
+        },
+        {
+          "word": " me",
+          "start": 47.7,
+          "end": 47.86,
+          "probability": 0.489990234375
+        },
+        {
+          "word": " dizer,",
+          "start": 47.86,
+          "end": 47.86,
+          "probability": 0.54736328125
+        },
+        {
+          "word": " você",
+          "start": 48.22,
+          "end": 48.4,
+          "probability": 0.796875
+        },
+        {
+          "word": " e",
+          "start": 48.4,
+          "end": 48.5,
+          "probability": 0.9736328125
+        },
+        {
+          "word": " eu,",
+          "start": 48.5,
+          "end": 48.62,
+          "probability": 0.97216796875
+        },
+        {
+          "word": " nós",
+          "start": 48.64,
+          "end": 48.76,
+          "probability": 0.62744140625
+        },
+        {
+          "word": " deveríamos",
+          "start": 48.76,
+          "end": 49.12,
+          "probability": 0.57373046875
+        },
+        {
+          "word": " se",
+          "start": 49.12,
+          "end": 49.2,
+          "probability": 0.153564453125
+        },
+        {
+          "word": " casar.",
+          "start": 49.2,
+          "end": 49.9,
+          "probability": 0.724609375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4590,
+      "start": 50.22,
+      "end": 51.88,
+      "text": " Nós não sabemos mais nada.",
+      "tokens": [
+        50600,
+        27626,
+        2431,
+        27200,
+        2420,
+        8096,
+        13,
+        50668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9202861411898744,
+      "compression_ratio": 1.216,
+      "no_speech_prob": 4.316700608075763e-10,
+      "words": [
+        {
+          "word": " Nós",
+          "start": 50.22,
+          "end": 50.68,
+          "probability": 0.10247802734375
+        },
+        {
+          "word": " não",
+          "start": 50.68,
+          "end": 50.92,
+          "probability": 0.31689453125
+        },
+        {
+          "word": " sabemos",
+          "start": 50.92,
+          "end": 51.5,
+          "probability": 0.69287109375
+        },
+        {
+          "word": " mais",
+          "start": 51.5,
+          "end": 51.64,
+          "probability": 0.156494140625
+        },
+        {
+          "word": " nada.",
+          "start": 51.64,
+          "end": 51.88,
+          "probability": 0.10162353515625
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4590,
+      "start": 52.38,
+      "end": 53.08,
+      "text": " O que foi isso?",
+      "tokens": [
+        50694,
+        422,
+        631,
+        6901,
+        4616,
+        30,
+        50727
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9202861411898744,
+      "compression_ratio": 1.216,
+      "no_speech_prob": 4.316700608075763e-10,
+      "words": [
+        {
+          "word": " O",
+          "start": 52.38,
+          "end": 52.84,
+          "probability": 0.685546875
+        },
+        {
+          "word": " que",
+          "start": 52.84,
+          "end": 52.86,
+          "probability": 0.98828125
+        },
+        {
+          "word": " foi",
+          "start": 52.86,
+          "end": 52.98,
+          "probability": 0.64208984375
+        },
+        {
+          "word": " isso?",
+          "start": 52.98,
+          "end": 53.08,
+          "probability": 0.63427734375
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4590,
+      "start": 53.74,
+      "end": 55.84,
+      "text": " Deixe-me alone, Jason, você...",
+      "tokens": [
+        50753,
+        1346,
+        42369,
+        12,
+        1398,
+        3312,
+        11,
+        11181,
+        11,
+        2723,
+        485,
+        50855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9202861411898744,
+      "compression_ratio": 1.216,
+      "no_speech_prob": 4.316700608075763e-10,
+      "words": [
+        {
+          "word": " Deixe",
+          "start": 53.74,
+          "end": 54.2,
+          "probability": 0.32763671875
+        },
+        {
+          "word": "-me",
+          "start": 54.2,
+          "end": 54.34,
+          "probability": 0.931640625
+        },
+        {
+          "word": " alone,",
+          "start": 54.34,
+          "end": 54.68,
+          "probability": 0.1751708984375
+        },
+        {
+          "word": " Jason,",
+          "start": 54.96,
+          "end": 55.38,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " você...",
+          "start": 55.54,
+          "end": 55.84,
+          "probability": 0.5966796875
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

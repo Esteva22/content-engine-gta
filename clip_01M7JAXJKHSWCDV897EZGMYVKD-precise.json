@@ -1,0 +1,1600 @@
+{
+  "text": " Ó, temos mais vários Superchat aqui no YouTube Vamos ler todos eles aqui, ó O Drogs falou, parabéns pelo tramposo 18, eu também, cara, obrigado, Drogs O Jonathan Batista mandou 2 reais, falou, qual a programação das lives de T6, David De novo, vamos lá, dia 18 7 da manhã, entre 6 e 7 eu vou abrir Minha live aqui, eu começo aqui, aí a gente espera Até o jogo liberar, 8 horas liberou A gente começa a jogar, e aí eu só vou parar Quando eu não aguentar mais jogar Enquanto eu estiver fazendo live Eu vou estar gravando vídeos também, vou mostrar vocês nos maiores detalhes, isso vai ser na quarta e na quinta é a mesma coisa aí sexta eu tenho os programas do Flow pra fazer, eu vou abrir live de manhã e ficar um tempão até ir pro Flow, aí quando eu voltar do Flow, aí quando eu voltar do Flow não aí beleza, aí sábado e domingo, live, live, live",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.8799999999999997,
+      "end": 1.94,
+      "text": " Ó, temos mais vários",
+      "tokens": [
+        50365,
+        35232,
+        11,
+        14247,
+        2420,
+        29830,
+        50463
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Ó,",
+          "start": 0.8799999999999997,
+          "end": 1.2,
+          "probability": 0.04779052734375
+        },
+        {
+          "word": " temos",
+          "start": 1.28,
+          "end": 1.4,
+          "probability": 0.97412109375
+        },
+        {
+          "word": " mais",
+          "start": 1.4,
+          "end": 1.68,
+          "probability": 0.99609375
+        },
+        {
+          "word": " vários",
+          "start": 1.68,
+          "end": 1.94,
+          "probability": 0.79541015625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.6199999999999997,
+      "end": 3.86,
+      "text": " Superchat aqui no YouTube",
+      "tokens": [
+        50463,
+        4548,
+        20057,
+        3871,
+        572,
+        3088,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Superchat",
+          "start": 2.6199999999999997,
+          "end": 2.94,
+          "probability": 0.54052734375
+        },
+        {
+          "word": " aqui",
+          "start": 2.94,
+          "end": 3.14,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " no",
+          "start": 3.14,
+          "end": 3.34,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " YouTube",
+          "start": 3.34,
+          "end": 3.86,
+          "probability": 0.833984375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.86,
+      "end": 5.0,
+      "text": " Vamos ler todos eles aqui, ó",
+      "tokens": [
+        50560,
+        10894,
+        32068,
+        6321,
+        10244,
+        3871,
+        11,
+        11857,
+        50612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.191650390625
+        },
+        {
+          "word": " ler",
+          "start": 4.08,
+          "end": 4.22,
+          "probability": 0.994140625
+        },
+        {
+          "word": " todos",
+          "start": 4.22,
+          "end": 4.38,
+          "probability": 0.998046875
+        },
+        {
+          "word": " eles",
+          "start": 4.38,
+          "end": 4.54,
+          "probability": 0.97314453125
+        },
+        {
+          "word": " aqui,",
+          "start": 4.54,
+          "end": 4.72,
+          "probability": 0.95166015625
+        },
+        {
+          "word": " ó",
+          "start": 4.72,
+          "end": 5.0,
+          "probability": 0.99658203125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.18,
+      "text": " O Drogs falou, parabéns pelo tramposo",
+      "tokens": [
+        50612,
+        422,
+        413,
+        6675,
+        82,
+        28443,
+        11,
+        45729,
+        3516,
+        82,
+        12167,
+        38605,
+        9869,
+        50725
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " O",
+          "start": 5.0,
+          "end": 5.52,
+          "probability": 0.859375
+        },
+        {
+          "word": " Drogs",
+          "start": 5.52,
+          "end": 6.04,
+          "probability": 0.6552734375
+        },
+        {
+          "word": " falou,",
+          "start": 6.04,
+          "end": 6.28,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " parabéns",
+          "start": 6.48,
+          "end": 6.74,
+          "probability": 0.98828125
+        },
+        {
+          "word": " pelo",
+          "start": 6.74,
+          "end": 6.86,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " tramposo",
+          "start": 6.86,
+          "end": 7.18,
+          "probability": 0.444580078125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.18,
+      "end": 9.12,
+      "text": " 18, eu também, cara, obrigado, Drogs",
+      "tokens": [
+        50725,
+        2443,
+        11,
+        2228,
+        6274,
+        11,
+        10962,
+        11,
+        41774,
+        11,
+        413,
+        6675,
+        82,
+        50853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " 18,",
+          "start": 7.18,
+          "end": 7.62,
+          "probability": 0.09014892578125
+        },
+        {
+          "word": " eu",
+          "start": 7.72,
+          "end": 7.8,
+          "probability": 0.990234375
+        },
+        {
+          "word": " também,",
+          "start": 7.8,
+          "end": 7.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " cara,",
+          "start": 8.1,
+          "end": 8.2,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " obrigado,",
+          "start": 8.24,
+          "end": 8.48,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " Drogs",
+          "start": 8.6,
+          "end": 9.12,
+          "probability": 0.890625
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.219999999999999,
+      "end": 11.56,
+      "text": " O Jonathan Batista mandou",
+      "tokens": [
+        50853,
+        422,
+        15471,
+        10066,
+        5236,
+        7411,
+        263,
+        50944
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " O",
+          "start": 10.219999999999999,
+          "end": 10.54,
+          "probability": 0.986328125
+        },
+        {
+          "word": " Jonathan",
+          "start": 10.54,
+          "end": 10.86,
+          "probability": 0.94677734375
+        },
+        {
+          "word": " Batista",
+          "start": 10.86,
+          "end": 11.32,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " mandou",
+          "start": 11.32,
+          "end": 11.56,
+          "probability": 0.9541015625
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.56,
+      "end": 13.5,
+      "text": " 2 reais, falou, qual a programação das lives de T6, David",
+      "tokens": [
+        50944,
+        568,
+        34823,
+        11,
+        28443,
+        11,
+        4101,
+        257,
+        1461,
+        6670,
+        1482,
+        2909,
+        368,
+        314,
+        21,
+        11,
+        4389,
+        51042
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " 2",
+          "start": 11.56,
+          "end": 11.74,
+          "probability": 0.58203125
+        },
+        {
+          "word": " reais,",
+          "start": 11.74,
+          "end": 11.88,
+          "probability": 0.78271484375
+        },
+        {
+          "word": " falou,",
+          "start": 11.94,
+          "end": 12.02,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " qual",
+          "start": 12.1,
+          "end": 12.18,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " a",
+          "start": 12.18,
+          "end": 12.22,
+          "probability": 0.97216796875
+        },
+        {
+          "word": " programação",
+          "start": 12.22,
+          "end": 12.5,
+          "probability": 0.9453125
+        },
+        {
+          "word": " das",
+          "start": 12.5,
+          "end": 12.66,
+          "probability": 0.65087890625
+        },
+        {
+          "word": " lives",
+          "start": 12.66,
+          "end": 12.82,
+          "probability": 0.96826171875
+        },
+        {
+          "word": " de",
+          "start": 12.82,
+          "end": 12.94,
+          "probability": 0.755859375
+        },
+        {
+          "word": " T6,",
+          "start": 12.94,
+          "end": 13.2,
+          "probability": 0.29345703125
+        },
+        {
+          "word": " David",
+          "start": 13.42,
+          "end": 13.5,
+          "probability": 0.8154296875
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 13.5,
+      "end": 15.12,
+      "text": " De novo, vamos lá, dia 18",
+      "tokens": [
+        51042,
+        1346,
+        18246,
+        11,
+        5295,
+        7453,
+        11,
+        6801,
+        2443,
+        51123
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " De",
+          "start": 13.5,
+          "end": 13.66,
+          "probability": 0.05963134765625
+        },
+        {
+          "word": " novo,",
+          "start": 13.66,
+          "end": 13.76,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " vamos",
+          "start": 13.82,
+          "end": 13.94,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " lá,",
+          "start": 13.94,
+          "end": 14.08,
+          "probability": 1.0
+        },
+        {
+          "word": " dia",
+          "start": 14.58,
+          "end": 14.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 18",
+          "start": 14.72,
+          "end": 15.12,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.12,
+      "end": 17.6,
+      "text": " 7 da manhã, entre 6 e 7 eu vou abrir",
+      "tokens": [
+        51123,
+        1614,
+        1120,
+        587,
+        36320,
+        11,
+        3962,
+        1386,
+        308,
+        1614,
+        2228,
+        6008,
+        27446,
+        51245
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " 7",
+          "start": 15.12,
+          "end": 15.72,
+          "probability": 0.2305908203125
+        },
+        {
+          "word": " da",
+          "start": 15.72,
+          "end": 15.88,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " manhã,",
+          "start": 15.88,
+          "end": 16.28,
+          "probability": 1.0
+        },
+        {
+          "word": " entre",
+          "start": 16.44,
+          "end": 16.72,
+          "probability": 0.91748046875
+        },
+        {
+          "word": " 6",
+          "start": 16.72,
+          "end": 16.88,
+          "probability": 0.9248046875
+        },
+        {
+          "word": " e",
+          "start": 16.88,
+          "end": 16.98,
+          "probability": 0.81982421875
+        },
+        {
+          "word": " 7",
+          "start": 16.98,
+          "end": 17.06,
+          "probability": 0.50048828125
+        },
+        {
+          "word": " eu",
+          "start": 17.06,
+          "end": 17.38,
+          "probability": 0.39599609375
+        },
+        {
+          "word": " vou",
+          "start": 17.38,
+          "end": 17.44,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " abrir",
+          "start": 17.44,
+          "end": 17.6,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 17.6,
+      "end": 19.52,
+      "text": " Minha live aqui, eu começo aqui, aí a gente espera",
+      "tokens": [
+        51245,
+        2829,
+        1641,
+        1621,
+        3871,
+        11,
+        2228,
+        48958,
+        3871,
+        11,
+        7461,
+        257,
+        3788,
+        37862,
+        51342
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Minha",
+          "start": 17.6,
+          "end": 17.74,
+          "probability": 0.5068359375
+        },
+        {
+          "word": " live",
+          "start": 17.74,
+          "end": 17.94,
+          "probability": 0.9921875
+        },
+        {
+          "word": " aqui,",
+          "start": 17.94,
+          "end": 18.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " eu",
+          "start": 18.3,
+          "end": 18.44,
+          "probability": 1.0
+        },
+        {
+          "word": " começo",
+          "start": 18.44,
+          "end": 18.66,
+          "probability": 1.0
+        },
+        {
+          "word": " aqui,",
+          "start": 18.66,
+          "end": 18.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " aí",
+          "start": 18.98,
+          "end": 19.08,
+          "probability": 0.9248046875
+        },
+        {
+          "word": " a",
+          "start": 19.08,
+          "end": 19.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " gente",
+          "start": 19.14,
+          "end": 19.24,
+          "probability": 1.0
+        },
+        {
+          "word": " espera",
+          "start": 19.24,
+          "end": 19.52,
+          "probability": 0.857421875
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 19.52,
+      "end": 21.06,
+      "text": " Até o jogo liberar, 8 horas liberou",
+      "tokens": [
+        51342,
+        31793,
+        277,
+        20068,
+        6774,
+        289,
+        11,
+        1649,
+        19548,
+        6774,
+        263,
+        51419
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Até",
+          "start": 19.52,
+          "end": 19.66,
+          "probability": 0.767578125
+        },
+        {
+          "word": " o",
+          "start": 19.66,
+          "end": 19.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " jogo",
+          "start": 19.74,
+          "end": 19.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " liberar,",
+          "start": 19.86,
+          "end": 20.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 8",
+          "start": 20.36,
+          "end": 20.54,
+          "probability": 0.970703125
+        },
+        {
+          "word": " horas",
+          "start": 20.54,
+          "end": 20.72,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " liberou",
+          "start": 20.72,
+          "end": 21.06,
+          "probability": 0.8818359375
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 21.06,
+      "end": 23.04,
+      "text": " A gente começa a jogar, e aí eu só vou parar",
+      "tokens": [
+        51419,
+        316,
+        3788,
+        32568,
+        257,
+        39248,
+        11,
+        308,
+        7461,
+        2228,
+        6238,
+        6008,
+        37193,
+        51518
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " A",
+          "start": 21.06,
+          "end": 21.46,
+          "probability": 0.8798828125
+        },
+        {
+          "word": " gente",
+          "start": 21.46,
+          "end": 21.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " começa",
+          "start": 21.52,
+          "end": 21.72,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " a",
+          "start": 21.72,
+          "end": 21.78,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " jogar,",
+          "start": 21.78,
+          "end": 21.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " e",
+          "start": 22.16,
+          "end": 22.4,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " aí",
+          "start": 22.4,
+          "end": 22.48,
+          "probability": 1.0
+        },
+        {
+          "word": " eu",
+          "start": 22.48,
+          "end": 22.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " só",
+          "start": 22.58,
+          "end": 22.66,
+          "probability": 1.0
+        },
+        {
+          "word": " vou",
+          "start": 22.66,
+          "end": 22.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " parar",
+          "start": 22.78,
+          "end": 23.04,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 23.04,
+      "end": 24.6,
+      "text": " Quando eu não aguentar mais jogar",
+      "tokens": [
+        51518,
+        18725,
+        2228,
+        2431,
+        623,
+        19226,
+        289,
+        2420,
+        39248,
+        51596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Quando",
+          "start": 23.04,
+          "end": 23.4,
+          "probability": 0.896484375
+        },
+        {
+          "word": " eu",
+          "start": 23.4,
+          "end": 23.52,
+          "probability": 1.0
+        },
+        {
+          "word": " não",
+          "start": 23.52,
+          "end": 23.68,
+          "probability": 1.0
+        },
+        {
+          "word": " aguentar",
+          "start": 23.68,
+          "end": 24.12,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " mais",
+          "start": 24.12,
+          "end": 24.32,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " jogar",
+          "start": 24.32,
+          "end": 24.6,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 24.6,
+      "end": 27.14,
+      "text": " Enquanto eu estiver fazendo live",
+      "tokens": [
+        51596,
+        2193,
+        358,
+        5857,
+        2228,
+        46578,
+        20741,
+        1621,
+        51725
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Enquanto",
+          "start": 24.6,
+          "end": 25.24,
+          "probability": 0.95166015625
+        },
+        {
+          "word": " eu",
+          "start": 25.24,
+          "end": 25.38,
+          "probability": 1.0
+        },
+        {
+          "word": " estiver",
+          "start": 25.38,
+          "end": 25.78,
+          "probability": 0.80859375
+        },
+        {
+          "word": " fazendo",
+          "start": 25.78,
+          "end": 26.7,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " live",
+          "start": 26.7,
+          "end": 27.14,
+          "probability": 0.97509765625
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 27.14,
+      "end": 29.24,
+      "text": " Eu vou estar gravando vídeos também, vou mostrar",
+      "tokens": [
+        51725,
+        2186,
+        6008,
+        8755,
+        7427,
+        1806,
+        20617,
+        6274,
+        11,
+        6008,
+        21487,
+        51828
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1850364031110491,
+      "compression_ratio": 1.5859154929577466,
+      "no_speech_prob": 1.4800473346898713e-11,
+      "words": [
+        {
+          "word": " Eu",
+          "start": 27.14,
+          "end": 27.44,
+          "probability": 0.94873046875
+        },
+        {
+          "word": " vou",
+          "start": 27.44,
+          "end": 27.6,
+          "probability": 1.0
+        },
+        {
+          "word": " estar",
+          "start": 27.6,
+          "end": 27.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " gravando",
+          "start": 27.76,
+          "end": 28.14,
+          "probability": 1.0
+        },
+        {
+          "word": " vídeos",
+          "start": 28.14,
+          "end": 28.36,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " também,",
+          "start": 28.36,
+          "end": 28.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " vou",
+          "start": 28.72,
+          "end": 28.82,
+          "probability": 0.95361328125
+        },
+        {
+          "word": " mostrar",
+          "start": 28.82,
+          "end": 29.24,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 32.16,
+      "text": " vocês nos maiores detalhes, isso vai ser na quarta",
+      "tokens": [
+        50365,
+        10522,
+        3269,
+        12698,
+        2706,
+        33185,
+        8076,
+        11,
+        4616,
+        4405,
+        816,
+        1667,
+        421,
+        19061,
+        50474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " vocês",
+          "start": 30.0,
+          "end": 30.22,
+          "probability": 0.8798828125
+        },
+        {
+          "word": " nos",
+          "start": 30.22,
+          "end": 30.4,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " maiores",
+          "start": 30.4,
+          "end": 30.66,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " detalhes,",
+          "start": 30.66,
+          "end": 31.14,
+          "probability": 1.0
+        },
+        {
+          "word": " isso",
+          "start": 31.36,
+          "end": 31.52,
+          "probability": 0.7998046875
+        },
+        {
+          "word": " vai",
+          "start": 31.52,
+          "end": 31.62,
+          "probability": 1.0
+        },
+        {
+          "word": " ser",
+          "start": 31.62,
+          "end": 31.72,
+          "probability": 1.0
+        },
+        {
+          "word": " na",
+          "start": 31.72,
+          "end": 31.82,
+          "probability": 1.0
+        },
+        {
+          "word": " quarta",
+          "start": 31.82,
+          "end": 32.16,
+          "probability": 0.99609375
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 32.16,
+      "end": 33.42,
+      "text": " e na quinta é a mesma coisa",
+      "tokens": [
+        50474,
+        308,
+        1667,
+        421,
+        16071,
+        1136,
+        257,
+        21921,
+        9614,
+        50537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " e",
+          "start": 32.16,
+          "end": 32.32,
+          "probability": 0.60888671875
+        },
+        {
+          "word": " na",
+          "start": 32.32,
+          "end": 32.42,
+          "probability": 1.0
+        },
+        {
+          "word": " quinta",
+          "start": 32.42,
+          "end": 32.66,
+          "probability": 1.0
+        },
+        {
+          "word": " é",
+          "start": 32.66,
+          "end": 32.88,
+          "probability": 0.9462890625
+        },
+        {
+          "word": " a",
+          "start": 32.88,
+          "end": 33.06,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " mesma",
+          "start": 33.06,
+          "end": 33.06,
+          "probability": 1.0
+        },
+        {
+          "word": " coisa",
+          "start": 33.06,
+          "end": 33.42,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 3000,
+      "start": 34.14,
+      "end": 35.9,
+      "text": " aí sexta eu tenho os programas do Flow",
+      "tokens": [
+        50537,
+        7461,
+        42826,
+        64,
+        2228,
+        14291,
+        3003,
+        1461,
+        296,
+        360,
+        32792,
+        50661
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " aí",
+          "start": 34.14,
+          "end": 34.46,
+          "probability": 0.467529296875
+        },
+        {
+          "word": " sexta",
+          "start": 34.46,
+          "end": 34.78,
+          "probability": 0.994140625
+        },
+        {
+          "word": " eu",
+          "start": 34.78,
+          "end": 35.14,
+          "probability": 0.50341796875
+        },
+        {
+          "word": " tenho",
+          "start": 35.14,
+          "end": 35.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " os",
+          "start": 35.26,
+          "end": 35.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " programas",
+          "start": 35.36,
+          "end": 35.64,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " do",
+          "start": 35.64,
+          "end": 35.72,
+          "probability": 1.0
+        },
+        {
+          "word": " Flow",
+          "start": 35.72,
+          "end": 35.9,
+          "probability": 0.833984375
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 3000,
+      "start": 35.9,
+      "end": 37.8,
+      "text": " pra fazer, eu vou abrir live de manhã e ficar",
+      "tokens": [
+        50661,
+        3206,
+        6736,
+        11,
+        2228,
+        6008,
+        27446,
+        1621,
+        368,
+        587,
+        36320,
+        308,
+        13646,
+        50754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " pra",
+          "start": 35.9,
+          "end": 36.04,
+          "probability": 0.9755859375
+        },
+        {
+          "word": " fazer,",
+          "start": 36.04,
+          "end": 36.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " eu",
+          "start": 36.44,
+          "end": 36.52,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " vou",
+          "start": 36.52,
+          "end": 36.62,
+          "probability": 1.0
+        },
+        {
+          "word": " abrir",
+          "start": 36.62,
+          "end": 36.86,
+          "probability": 1.0
+        },
+        {
+          "word": " live",
+          "start": 36.86,
+          "end": 37.02,
+          "probability": 0.9541015625
+        },
+        {
+          "word": " de",
+          "start": 37.02,
+          "end": 37.16,
+          "probability": 1.0
+        },
+        {
+          "word": " manhã",
+          "start": 37.16,
+          "end": 37.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " e",
+          "start": 37.38,
+          "end": 37.5,
+          "probability": 0.916015625
+        },
+        {
+          "word": " ficar",
+          "start": 37.5,
+          "end": 37.8,
+          "probability": 0.99267578125
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 3000,
+      "start": 37.8,
+      "end": 40.02,
+      "text": " um tempão até ir pro Flow, aí quando eu voltar",
+      "tokens": [
+        50754,
+        1105,
+        18274,
+        1076,
+        8784,
+        3418,
+        447,
+        32792,
+        11,
+        7461,
+        7770,
+        2228,
+        36291,
+        50866
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " um",
+          "start": 37.8,
+          "end": 38.1,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " tempão",
+          "start": 38.1,
+          "end": 38.58,
+          "probability": 1.0
+        },
+        {
+          "word": " até",
+          "start": 38.58,
+          "end": 38.9,
+          "probability": 0.81005859375
+        },
+        {
+          "word": " ir",
+          "start": 38.9,
+          "end": 39.02,
+          "probability": 0.98828125
+        },
+        {
+          "word": " pro",
+          "start": 39.02,
+          "end": 39.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Flow,",
+          "start": 39.12,
+          "end": 39.38,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " aí",
+          "start": 39.52,
+          "end": 39.58,
+          "probability": 0.998046875
+        },
+        {
+          "word": " quando",
+          "start": 39.58,
+          "end": 39.74,
+          "probability": 1.0
+        },
+        {
+          "word": " eu",
+          "start": 39.74,
+          "end": 39.8,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " voltar",
+          "start": 39.8,
+          "end": 40.02,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 3000,
+      "start": 40.02,
+      "end": 41.82,
+      "text": " do Flow, aí quando eu voltar do Flow não",
+      "tokens": [
+        50866,
+        360,
+        32792,
+        11,
+        7461,
+        7770,
+        2228,
+        36291,
+        360,
+        32792,
+        2431,
+        50957
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " do",
+          "start": 40.02,
+          "end": 40.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Flow,",
+          "start": 40.18,
+          "end": 40.48,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " aí",
+          "start": 40.58,
+          "end": 41.24,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " quando",
+          "start": 41.24,
+          "end": 41.34,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " eu",
+          "start": 41.34,
+          "end": 41.36,
+          "probability": 0.99609375
+        },
+        {
+          "word": " voltar",
+          "start": 41.36,
+          "end": 41.5,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " do",
+          "start": 41.5,
+          "end": 41.56,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " Flow",
+          "start": 41.56,
+          "end": 41.68,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " não",
+          "start": 41.68,
+          "end": 41.82,
+          "probability": 0.86474609375
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 3000,
+      "start": 41.82,
+      "end": 43.88,
+      "text": " aí beleza, aí sábado e domingo, live, live, live",
+      "tokens": [
+        50957,
+        7461,
+        46429,
+        11,
+        7461,
+        262,
+        27879,
+        1573,
+        308,
+        3285,
+        18459,
+        11,
+        1621,
+        11,
+        1621,
+        11,
+        1621,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09872590502103169,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 7.288443286401769e-12,
+      "words": [
+        {
+          "word": " aí",
+          "start": 41.82,
+          "end": 41.98,
+          "probability": 0.5791015625
+        },
+        {
+          "word": " beleza,",
+          "start": 41.98,
+          "end": 42.16,
+          "probability": 0.71728515625
+        },
+        {
+          "word": " aí",
+          "start": 42.32,
+          "end": 42.56,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " sábado",
+          "start": 42.56,
+          "end": 42.84,
+          "probability": 0.9814453125
+        },
+        {
+          "word": " e",
+          "start": 42.84,
+          "end": 42.92,
+          "probability": 0.88330078125
+        },
+        {
+          "word": " domingo,",
+          "start": 42.92,
+          "end": 43.12,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " live,",
+          "start": 43.24,
+          "end": 43.44,
+          "probability": 0.98046875
+        },
+        {
+          "word": " live,",
+          "start": 43.52,
+          "end": 43.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " live",
+          "start": 43.76,
+          "end": 43.88,
+          "probability": 0.99658203125
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

@@ -1,0 +1,276 @@
+[
+  {
+    "id": 11,
+    "key": "rockstar",
+    "title": "O que a Rockstar perguntou para o DavyJones?",
+    "source": "data/media/davyjones-vod-01a1e49b-04800.mp4",
+    "localStart": 32.6,
+    "trimStart": 1.5,
+    "trimEnd": 15.45,
+    "transcript": "data/editorial/rockstar-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Bastidor específico de contato com a Rockstar: pergunta sobre feedback e resposta direta do criador. Curiosidade e credibilidade da experiência pessoal.",
+    "risks": "É relato do criador, não comunicado oficial da Rockstar.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Opinião ou experiência pessoal do criador; não é anúncio oficial da Rockstar.",
+    "originalWindow": [
+      4834.1,
+      4848.05
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=4834"
+  },
+  {
+    "id": 12,
+    "key": "clip_01M7Q5NYKA03B2N9VBKCSRMDSC",
+    "title": "Ele nem percebeu que já estava jogando",
+    "source": "data/media/clip_01M7Q5NYKA03B2N9VBKCSRMDSC.mp4",
+    "localStart": 0,
+    "trimStart": 19.7,
+    "trimEnd": 35.5,
+    "transcript": "data/editorial/clip_01M7Q5NYKA03B2N9VBKCSRMDSC-precise.json",
+    "crop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "mode": "gameplay",
+    "reason": "Surpresa espontânea e descoberta visual: o jogo passa da cutscene ao controle do jogador e o criador só percebe depois. A reação tem gancho e fecha com a avaliação da transição.",
+    "risks": "Há palavrão e um trecho curto da transição inicial. Não usar como anúncio de novidade ou vídeo sem spoilers.",
+    "context": "Reação de DavyJones à transmissão. Trecho de gameplay; contém palavrão.",
+    "originalWindow": [
+      19.7,
+      35.5
+    ],
+    "url": "https://kick.com/davyjones/clips/clip_01M7Q5NYKA03B2N9VBKCSRMDSC",
+    "signals": {
+      "title": "KKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+      "view_count": 1703,
+      "timestamp": 1795000353,
+      "epoch": 1795024499,
+      "duration": 39,
+      "viewsPerHourAtCollection": 253.9
+    }
+  },
+  {
+    "id": 13,
+    "key": "clip_01M7Q61465TJ3MJD98CGM5Q8RA",
+    "title": "Foi roubar um carro e veio a primeira morte",
+    "source": "data/media/clip_01M7Q61465TJ3MJD98CGM5Q8RA.mp4",
+    "localStart": 0,
+    "trimStart": 20.8,
+    "trimEnd": 48.3,
+    "transcript": "data/editorial/clip_01M7Q61465TJ3MJD98CGM5Q8RA-precise.json",
+    "crop": {
+      "x": 0.017,
+      "y": 0.026,
+      "w": 0.209,
+      "h": 0.208
+    },
+    "mode": "gameplay",
+    "reason": "Pequena história com objetivo claro, dificuldade inesperada ao ligar o carro, reação crescente e desfecho na primeira morte. O gameplay sustenta o que é falado.",
+    "risks": "Contém violência de videogame e palavrão. É a primeira morte mostrada neste trecho do criador, sem afirmar estatísticas gerais.",
+    "context": "Reação de DavyJones à transmissão. Trecho de gameplay; contém palavrão.",
+    "originalWindow": [
+      20.8,
+      48.3
+    ],
+    "url": "https://kick.com/davyjones/clips/clip_01M7Q61465TJ3MJD98CGM5Q8RA",
+    "signals": {
+      "title": "primeira morte do mago",
+      "view_count": 163,
+      "timestamp": 1795000693,
+      "epoch": 1795024611,
+      "duration": 50,
+      "viewsPerHourAtCollection": 24.5
+    }
+  },
+  {
+    "id": 14,
+    "key": "clip_01M7Q2H15CR4ADM9EBMV0DJ5Y8",
+    "title": "O recado do irmão que emocionou o Davy",
+    "source": "data/media/clip_01M7Q2H15CR4ADM9EBMV0DJ5Y8.mp4",
+    "localStart": 0,
+    "trimStart": 1.0,
+    "trimEnd": 25.0,
+    "transcript": "data/editorial/clip_01M7Q2H15CR4ADM9EBMV0DJ5Y8-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Mensagem de orgulho do irmão seguida de saudade e agradecimento do criador. Emoção e relação familiar reconhecível, com começo e encerramento que funcionam sem a live inteira.",
+    "risks": "A primeira voz é o recado do irmão, seguida da resposta do Davy. Preservar essa atribuição; tema de comunidade, não notícia de gameplay.",
+    "context": "Reação de DavyJones à transmissão. Mensagem do irmão e resposta do criador.",
+    "originalWindow": [
+      1.0,
+      25.0
+    ],
+    "url": "https://kick.com/davyjones/clips/clip_01M7Q2H15CR4ADM9EBMV0DJ5Y8",
+    "signals": {
+      "title": "Davy chorando pt1",
+      "view_count": 117,
+      "timestamp": 1794997028,
+      "epoch": 1795024635,
+      "duration": 60,
+      "viewsPerHourAtCollection": 15.3
+    }
+  },
+  {
+    "id": 15,
+    "key": "legacy",
+    "title": "Quem vai continuar o canal do DavyJones?",
+    "source": "data/media/davyjones-vod-01a1e49b-02100.mp4",
+    "localStart": 9.78,
+    "trimStart": 0.65,
+    "trimEnd": 25.95,
+    "transcript": "data/editorial/legacy-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Pergunta sobre o legado do criador e a resposta pessoal sobre o filho e a aposentadoria. Tem curiosidade sobre bastidores e identificação com fãs antigos.",
+    "risks": "Preservar as palavras exatas sobre idade e aposentadoria; não anunciar que ele vai parar agora.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Opinião ou experiência pessoal do criador; não é anúncio oficial da Rockstar.",
+    "originalWindow": [
+      2110.4300000000003,
+      2135.73
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=2110"
+  },
+  {
+    "id": 16,
+    "key": "spoilers",
+    "title": "Como fugir dos spoilers de GTA 6",
+    "source": "data/media/davyjones-curated-source-00277.mp4",
+    "localStart": 0,
+    "trimStart": 4.8,
+    "trimEnd": 16.5,
+    "transcript": "data/editorial/spoilers-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Pergunta que afeta quem aguarda o jogo; resposta direta e provocação sobre ficar fora das redes. Tem conflito reconhecível e encerramento.",
+    "risks": "Há linguagem informal e palavrão. É opinião do criador, não orientação técnica sobre filtros.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Opinião ou experiência pessoal do criador; não é anúncio oficial da Rockstar.",
+    "originalWindow": [
+      282.2,
+      293.9
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=282"
+  },
+  {
+    "id": 17,
+    "key": "story",
+    "title": "Dá para ignorar a história de GTA?",
+    "source": "data/media/davyjones-curated-source-00563.mp4",
+    "localStart": 0,
+    "trimStart": 0.75,
+    "trimEnd": 14.35,
+    "transcript": "data/editorial/story-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Dúvida que divide estilos de jogo; resposta com motivo concreto sobre progressão, armas e veículos. Pode provocar discussão entre quem explora e quem faz missões.",
+    "risks": "Evitar transformar opinião sobre progressão em confirmação de mecânicas inéditas de GTA VI.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Opinião ou experiência pessoal do criador; não é anúncio oficial da Rockstar.",
+    "originalWindow": [
+      564.47,
+      578.07
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=564"
+  },
+  {
+    "id": 18,
+    "key": "survived",
+    "title": "Sobrevivemos à espera pelo GTA 6",
+    "source": "data/media/davyjones-vod-01a1e49b-02100.mp4",
+    "localStart": 43.02,
+    "trimStart": 0,
+    "trimEnd": 16.75,
+    "transcript": "data/editorial/survived-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Humor de identificação sobre a espera de anos pelo lançamento, com uma recomendação exagerada para não correr riscos até lá.",
+    "risks": "Tom de brincadeira sobre morte; não apresentar como notícia ou recomendação real.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Opinião ou experiência pessoal do criador; não é anúncio oficial da Rockstar.",
+    "originalWindow": [
+      2143.02,
+      2159.77
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=2143"
+  },
+  {
+    "id": 19,
+    "key": "father",
+    "title": "Do GTA V com o pai ao GTA VI juntos",
+    "source": "data/media/davyjones-vod-01a1e49b-00300.mp4",
+    "localStart": 13.72,
+    "trimStart": 0.5,
+    "trimEnd": 7.38,
+    "transcript": "data/editorial/father-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Mini-história de duas gerações, com contraste temporal de 2013 até o próximo jogo; potencial de identificação e compartilhamento entre pais e filhos.",
+    "risks": "Relato enviado por espectador e lido pelo criador; preservar essa atribuição na legenda de publicação. Corte muito curto: conferir se a emoção funciona sem contexto.",
+    "context": "Trecho de conversa do criador sobre GTA VI. Relato enviado por espectador e lido pelo criador.",
+    "originalWindow": [
+      314.22,
+      321.1
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=314"
+  },
+  {
+    "id": 20,
+    "key": "police",
+    "title": "Polícia no GTA 6: realismo até onde?",
+    "source": "data/media/davyjones-curated-police.mp4",
+    "localStart": 0,
+    "trimStart": 0.72,
+    "trimEnd": 13.1,
+    "transcript": "data/editorial/police-precise.json",
+    "crop": {
+      "x": 0.355,
+      "y": 0.022,
+      "w": 0.635,
+      "h": 0.64
+    },
+    "mode": "art",
+    "reason": "Pergunta concreta sobre uma abordagem policial realista seguida de uma resposta cética. Conflito de expectativas que pode gerar discussão sobre realismo versus ritmo de jogo.",
+    "risks": "É especulação do criador antes de experimentar esse aspecto do jogo; não afirmar que a mecânica foi confirmada. Potencial editorial moderado.",
+    "context": "DavyJones responde a uma pergunta de espectador. Opinião especulativa, não confirmação de mecânicas.",
+    "originalWindow": [
+      7548.820000000001,
+      7561.200000000001
+    ],
+    "url": "https://kick.com/davyjones/videos/01a1e49b-4f10-7b2a-8223-77fc047d2b13?t=7548"
+  }
+]

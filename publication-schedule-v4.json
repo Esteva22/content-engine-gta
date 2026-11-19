@@ -1,0 +1,138 @@
+{
+  "historicalOnly": true,
+  "authorizationTransferred": false,
+  "snapshot": {
+    "version": 4,
+    "profile": "gta.takes",
+    "timezone": "America/Sao_Paulo",
+    "approvedVideoIds": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "intervalMinutes": 30,
+    "createdAt": "2026-11-19T00:58:29.530Z",
+    "jobs": [
+      {
+        "videoId": 21,
+        "title": "O carro mudou — e a fuga deu errado",
+        "revision": 1,
+        "approvedAt": "2026-11-19T00:53:25.237Z",
+        "file": "data/media/7b14d49f-8d22-4622-ac9b-f5ddadad5e28.mp4",
+        "sha256": "da0b17ed1b767526decf398628ff4acdf370088e80179d5a4627a7786d938cda",
+        "caption": "O carro mudou — e a fuga deu errado\n\nReação de DavyJones durante a transmissão. Montagem com remoção de pausas.\nFonte: https://kick.com/davyjones/clips/clip_01M7Q76TKMYFF8AX7HG1PE0HS5\n\n#GTA6 #GTAVI #DavyJones #GTA6Brasil #GTA #RockstarGames #Clipes #ViceCity #FYP #ForYouPage #Viral",
+        "scheduledAt": null,
+        "platforms": {
+          "instagram": {
+            "mode": "immediate",
+            "status": "sent",
+            "confirmedAt": "2026-11-19T00:59:17.317Z",
+            "url": "https://www.instagram.com/gta.takes/reel/Df52FXoBZf8/"
+          },
+          "tiktok": {
+            "mode": "immediate",
+            "status": "sent",
+            "confirmedAt": "2026-11-19T00:59:17.321Z",
+            "url": "https://www.tiktok.com/@gta.takes/video/7709679898264112385"
+          }
+        }
+      },
+      {
+        "videoId": 22,
+        "title": "Sem mira automática: a pressão do tiroteio",
+        "revision": 1,
+        "approvedAt": "2026-11-19T00:53:25.237Z",
+        "file": "data/media/6a9ca959-2b70-4d0d-b14a-66abcb5adc5f.mp4",
+        "sha256": "cb201f215b4c926db007e3e156be5138e22af96804849d5c2c2074b938c30158",
+        "caption": "Sem mira automática: a pressão do tiroteio\n\nReação de DavyJones durante a transmissão. Montagem com remoção de pausas.\nFonte: https://kick.com/davyjones/clips/clip_01M7Q76TKMYFF8AX7HG1PE0HS5\n\n#GTA6 #GTAVI #DavyJones #GTA6Brasil #GTA #RockstarGames #Clipes #ViceCity #FYP #ForYouPage #Viral",
+        "scheduledAt": "2026-11-18T22:30:00-03:00",
+        "platforms": {
+          "instagram": {
+            "mode": "codex_automation",
+            "status": "queued"
+          },
+          "tiktok": {
+            "mode": "native",
+            "status": "scheduled",
+            "url": "https://www.tiktok.com/@gta.takes/video/7709682089641135361",
+            "confirmedAt": "2026-11-19T01:05:20.521Z",
+            "nativeScheduledAt": "2026-11-18T22:30:00-03:00"
+          }
+        }
+      },
+      {
+        "videoId": 23,
+        "title": "O treino acabou com a energia dele",
+        "revision": 2,
+        "approvedAt": "2026-11-19T00:53:25.237Z",
+        "file": "data/media/f28883d5-c975-457b-8171-f482479c0f5b.mp4",
+        "sha256": "d0e828b789dc214f8b9e300065f598bf5eca7e7f0cd804999013bf03ae67e4ac",
+        "caption": "O treino acabou com a energia dele\n\nReação de DavyJones durante a transmissão. Montagem com remoção de pausas.\nFonte: https://kick.com/davyjones/clips/clip_01M7Q9RN31W4S5WWZ1V0VGX3FB\n\n#GTA6 #GTAVI #DavyJones #GTA6Brasil #GTA #RockstarGames #Clipes #ViceCity #FYP #ForYouPage #Viral",
+        "scheduledAt": "2026-11-18T23:00:00-03:00",
+        "platforms": {
+          "instagram": {
+            "mode": "codex_automation",
+            "status": "queued"
+          },
+          "tiktok": {
+            "mode": "native",
+            "status": "scheduled",
+            "url": "https://www.tiktok.com/@gta.takes/video/7709683961148050740",
+            "confirmedAt": "2026-11-19T01:12:17.721Z",
+            "nativeScheduledAt": "2026-11-18T23:00:00-03:00"
+          }
+        }
+      },
+      {
+        "videoId": 24,
+        "title": "Ele parou para ouvir o rolo de pintura",
+        "revision": 2,
+        "approvedAt": "2026-11-19T00:53:25.237Z",
+        "file": "data/media/93248e45-00aa-4f29-ac55-4eb7459220d2.mp4",
+        "sha256": "dfe7bba61c9f833605827e9097e3c6f1566b7ae1d1a30b5b7f3d2a8a2fb60d5c",
+        "caption": "Ele parou para ouvir o rolo de pintura\n\nReação de DavyJones durante a transmissão. Montagem com remoção de pausas.\nFonte: https://kick.com/davyjones/clips/clip_01M7Q94QS5ZF5R970KQYRAJW79\n\n#GTA6 #GTAVI #DavyJones #GTA6Brasil #GTA #RockstarGames #Clipes #ViceCity #FYP #ForYouPage #Viral",
+        "scheduledAt": "2026-11-18T23:30:00-03:00",
+        "platforms": {
+          "instagram": {
+            "mode": "codex_automation",
+            "status": "queued"
+          },
+          "tiktok": {
+            "mode": "native",
+            "status": "scheduled",
+            "url": "https://www.tiktok.com/@gta.takes/video/7709683998821207348",
+            "confirmedAt": "2026-11-19T01:14:59.211Z",
+            "nativeScheduledAt": "2026-11-18T23:30:00-03:00"
+          }
+        }
+      },
+      {
+        "videoId": 25,
+        "title": "Era só consertar a pia… até aparecer isso",
+        "revision": 1,
+        "approvedAt": "2026-11-19T00:53:25.237Z",
+        "file": "data/media/2d0100fd-8810-46cb-b95b-76e8412b520f.mp4",
+        "sha256": "ff0e72f60ccaf0a2022f822881094f3e819ba6db1c800fd1a666dd584fa4bc82",
+        "caption": "Era só consertar a pia… até aparecer isso\n\nReação de DavyJones durante a transmissão. Montagem com remoção de pausas.\nFonte: https://kick.com/davyjones/clips/clip_01M7QDGW9V03QM02S1TMYT4BNB\n\n#GTA6 #GTAVI #DavyJones #GTA6Brasil #GTA #RockstarGames #Clipes #ViceCity #FYP #ForYouPage #Viral",
+        "scheduledAt": "2026-11-19T00:00:00-03:00",
+        "platforms": {
+          "instagram": {
+            "mode": "codex_automation",
+            "status": "queued"
+          },
+          "tiktok": {
+            "mode": "native",
+            "status": "scheduled",
+            "url": "https://www.tiktok.com/@gta.takes/video/7709684180866616577",
+            "confirmedAt": "2026-11-19T01:18:16.115Z",
+            "nativeScheduledAt": "2026-11-19T00:00:00-03:00"
+          }
+        }
+      }
+    ],
+    "instagramAutomationId": "publicar-quatro-reels-gta-takes",
+    "instagramRequiresMacAwake": true
+  }
+}

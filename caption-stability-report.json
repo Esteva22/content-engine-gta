@@ -1,0 +1,9 @@
+{
+  "frames": 39,
+  "minVisiblePixels": 13407,
+  "maxVisiblePixels": 13476,
+  "minToMaxRatio": 0.994879786286732,
+  "blankFrames": 0,
+  "result": "pass",
+  "method": "Same phrase continuously rendered through three word highlights; white/yellow glyph area must remain within 3%."
+}
